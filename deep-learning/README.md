@@ -15,7 +15,7 @@
 1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 #### Natural Language Processing 
-2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
+1. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 
 
