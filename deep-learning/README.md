@@ -1,13 +1,14 @@
 # Deep Learning Resources
 
 ### Courses
+1. [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+2. [Deep Learning - IIT-Madras CS7015](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
+3. [Deep Learning - Stanford CS230](https://cs230.stanford.edu/)
+4. [Fast.ai](https://course.fast.ai/)
+
+#### Machine Learning
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-2. [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
-3. [Machine Learning - Stanford CS229](http://cs229.stanford.edu/)
-3. [Convolutional Neural Networks for Visual Recognition - Stanford CS231n](http://cs231n.stanford.edu/)
-4. [Deep Learning - IIT-Madras CS7015](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
-5. [Deep Learning - Stanford CS230](https://cs230.stanford.edu/)
-6. [Fast.ai](https://course.fast.ai/)
+2. [Machine Learning - Stanford CS229](http://cs229.stanford.edu/)
 
 
 #### Vision
