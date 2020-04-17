@@ -13,7 +13,7 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 2. [Deep Reinforcement Learning - UC Berkeley CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/)
 3. [Spinning up Deep RL - OpenAI](https://spinningup.openai.com/en/latest/)
-4. 
+
 #### Specialised Courses
 1. [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 
