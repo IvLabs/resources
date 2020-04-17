@@ -7,6 +7,14 @@
 3. [Convolutional Neural Networks for Visual Recognition - Stanford CS231n](http://cs231n.stanford.edu/)
 4. [Deep Learning - IIT-Madras CS7015](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
 5. [Deep Learning - Stanford CS230](https://cs230.stanford.edu/)
+6. [Fast.ai](https://course.fast.ai/)
+
+
+#### Vision
+1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+#### Natural Language Processing 
+2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 
 
