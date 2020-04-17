@@ -1,6 +1,9 @@
-# Deep Learning Resources
+# Machine Learning Resources
 
-### Courses
+## Courses
+In these courses, you will learn the foundations of Machine Learning, understand how to build neural networks, and learn how to lead successful Machine learning projects.
+
+#### General Courses on Deep Learning
 1. [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 2. [Deep Learning - IIT-Madras CS7015](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
 3. [Deep Learning - Stanford CS230](https://cs230.stanford.edu/)
@@ -11,22 +14,23 @@
 2. [Machine Learning - Stanford CS229](http://cs229.stanford.edu/)
 3. [Fast.ai - Machine Learning](http://course18.fast.ai/ml)
 
-
 #### Vision
-1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+1. [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+2. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
 
 #### Natural Language Processing 
-1. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
+1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 
-
-### Books
+## Books
 1. [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
-### Blog Posts/Tutorials
+## Blog Posts/Tutorials
 1. [Lilian Weng](https://lilianweng.github.io/lil-log/)
 
-### Framework Tutorials
+## Framework Tutorials
 1. TensorFlow
    - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
    - [sentdex TensorFlow/Keras playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
