@@ -11,3 +11,12 @@
 
 ### Blog Posts/Tutorials
 1. [Lilian Weng](https://lilianweng.github.io/lil-log/)
+
+### Framework Tutorials
+1. TensorFlow
+   - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+   - [sentdex TensorFlow/Keras playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+2. PyTorch
+   - [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
+   - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+   - [sentdex PyTorch playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
