@@ -1,7 +1,7 @@
-# Machine Learning Resources
+# Deep Learning Resources
 
 ## Courses
-In these courses, you will learn the foundations of Machine Learning, understand how to build neural networks, and learn how to lead successful Machine learning projects.
+In these courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to undertake Deep Learning projects systematically.
 
 #### General Courses on Deep Learning
 1. [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
