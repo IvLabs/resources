@@ -33,10 +33,10 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 
 ## Research Papers
 ### State of the art algorithms
-1. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-2. [REINFORCE](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
+1. [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
+2. [Actor-Critic Algorithms](https://papers.nips.cc/paper/1786-actor-critic-algorithms.pdf)
+2. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 3. [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971)
-4. [Advantage Actor Critic](https://arxiv.org/abs/1602.01783)
-5. [Asynchronous Advantage Actor Critic](https://arxiv.org/abs/1602.01783)
-6. [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477)
-7. [Proximal Policy Optimization](https://arxiv.org/pdf/1707.06347)
+4. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+5. [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477)
+6. [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)
