@@ -30,3 +30,13 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 1. [RL— Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
 2. [Deep Reinforcement Series by Jonathan Hui](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
 3. [All the fantastic blogs by Lilian Weng](https://lilianweng.github.io/lil-log/)
+
+## Research Papers
+### State of the art algorithms
+1. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+2. [REINFORCE](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
+3. [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971)
+4. [Advantage Actor Critic](https://arxiv.org/abs/1602.01783)
+5. [Asynchronous Advantage Actor Critic](https://arxiv.org/abs/1602.01783)
+6. [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477)
+7. [Proximal Policy Optimization](https://arxiv.org/pdf/1707.06347)
