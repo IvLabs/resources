@@ -27,8 +27,8 @@
 ## Important libraries and webpages:
 1. [OMPL](https://ompl.kavrakilab.org/)
 2. [RRT](http://msl.cs.uiuc.edu/rrt/)
-3.
+3. [CMU motion planning course homepage](http://www.cs.cmu.edu/~./motionplanning/)
 
-## Important publications:
+## Important publications and research groups:
 1. http://ai.stanford.edu/~latombe/pub.htm
-2. 
+
