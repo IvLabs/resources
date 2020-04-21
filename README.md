@@ -5,7 +5,7 @@ Here you will find all the courses and online materials which are being followed
 
 ## Topics
 * [Control Theory](control-theory)
-* [Deep Learning]deep-learning)
+* [Deep Learning](deep-learning)
 * [Reinforcement Learning](reinforcement-learning)
 
 ## Guidelines for contributing
