@@ -11,7 +11,6 @@
 1. https://www.coursera.org/learn/motion-planning-self-driving-cars
 
 ## Books:
-### Introductory:
 1. [Robot motion planning intro](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf)
 2. [Principles of robot motion](http://biorobotics.ri.cmu.edu/book/)
 3. [Planning Algorithms by S. M. Lavalle](http://planning.cs.uiuc.edu/booka4.pdf)
