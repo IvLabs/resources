@@ -7,6 +7,7 @@ Here you will find all the courses and online materials which are being followed
 * [Control Theory](https://github.com/IvLabs/resources/tree/master/control-theory)
 * [Deep Learning](https://github.com/IvLabs/resources/tree/master/deep-learning)
 * [Reinforcement Learning](https://github.com/IvLabs/resources/tree/master/reinforcement-learning)
+* [Mathematics]("add link here")
 
 ## Guidelines for contributing
 1. You are encouraged to add links to the following: 
