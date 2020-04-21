@@ -4,7 +4,7 @@ Initiative by [IvLabs](http://www.ivlabs.in/) to  to share field-wise learning r
 Here you will find all the courses and online materials which are being followed by lab members. These resources have been carefully handpicked to provide the best knowledge.
 
 ## Topics
-* [Control Theory](https://github.com/IvLabs/resources/tree/master/control-theory)
+* [Control Theory](master/control-theory)
 * [Deep Learning](https://github.com/IvLabs/resources/tree/master/deep-learning)
 * [Reinforcement Learning](https://github.com/IvLabs/resources/tree/master/reinforcement-learning)
 
