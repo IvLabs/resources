@@ -14,7 +14,7 @@
 1. [Robot motion planning intro](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf)
 2. [Principles of robot motion](http://biorobotics.ri.cmu.edu/book/)
 3. [Planning Algorithms by S. M. Lavalle](http://planning.cs.uiuc.edu/booka4.pdf)
-4. [ Probabilistic robotics by S. Thrun](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) 
+4. [Probabilistic robotics by S. Thrun](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) 
 5. [Object oriented planning](https://www.diva-portal.org/smash/get/diva2:7803/FULLTEXT01.pdf)
 6. [Autonomous mobile robots by R. Siegwart, Nourbakhsh](http://home.deib.polimi.it/gini/robot/docs/siegwart.pdf)
 
