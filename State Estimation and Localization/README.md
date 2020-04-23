@@ -3,7 +3,7 @@
 ## Resources
 
 ### Overview
-##### Note:- These references are good just to get an overview of the concept along with visual understanding. They may not cover all the mathematical details about the concept.
+##### Note:- The following references are good just to get an overview of the concept along with visual understanding. They may not cover all the mathematical details about the concept.
 
 * [How a Kalman filter works](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [Student Dave's Tutorials](http://studentdavestutorials.weebly.com/)
