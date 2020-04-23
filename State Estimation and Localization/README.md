@@ -1,22 +1,18 @@
-# Control Theory
+# State Estimation and Localization, SLAM
 
 ## Resources
-### Classical Control
-* [Classical Control Theory](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) by Brian Douglas.
-* [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton.
-##### Note:- For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
+### Beginner
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss19/robotics/) by Dr. Wolfram Burgard.
+##### Note:- The course provided by Dr. Wolfram Burgard is good for understanding the underlying math behind the probabilistic algorithms used in state estimation and localization. The course can be taken as an introduction to the various concepts in the field of mobile robotics. 
+* [SLAM-Course](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) by Cyrill Stachniss.
+* [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars/home/welcome)
+##### Note:- This course is specifically crafted for understanding the various methodologies used for localization, sensor fusion, sensor selection, etc. in self-driving cars. It may not cover all the concepts of localization used in robotics, but is targeted for an audience specifically interested in self-driving cars. 
 
-### Specific Control Methods
-#### PID control
-* [Understanding PID control](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) from MATLAB.
 
-#### Sliding Mode Control
-* [Lecture](https://www.youtube.com/watch?v=v2CNRxG081w&list=PLJmxjP-2T4kthW4VjZn033DYF7Kp_ndt3) by Sarah Spurgeon.
- 
-#### Adaptive Control
-* [Non-Linear & Adaptive Control](https://nptel.ac.in/courses/108/102/108102113/) (Nptel) lecture by Dr. Shubendu Bhasin.
-
-## Books for Reference
-* [Modern Control Engineering](http://sharif.edu/~salarieh/Downloads/Modern%20Control%20Engineering%205th%20Edition.pdf) by Kastukio Ogota.
-* [Sliding Mode Control](https://books.google.co.in/books?hl=en&lr=&id=8U1ZDwAAQBAJ&oi=fnd&pg=PP1&dq=sarah+spurgeon+sliding+mode+control&ots=IwTbn51TCr&sig=1jw8ajRiCB2PQLp1iY7kHT6bAsk#v=onepage&q=sarah%20spurgeon%he20sliding%20mode%20control&f=false) by Christopher Edwards and Sarah Spurgeon.
-* [Non-Linear and adaptive control](https://books.google.co.in/books/about/Nonlinear_and_Adaptive_Control_Systems.html?id=fygdICP0g0kC&redir_esc=y) by Zhengato Din. (Good explanation of Backstepping).
+## Books and research papers for Reference
+* [Optimal State Estimation: Kalman, H∞, and Nonlinear Approaches](https://onlinelibrary.wiley.com/doi/book/10.1002/0470045345) by Dan Simon.
+* [Circumventing dynamic modeling: evaluation of the error-state Kalman filter applied to mobile robot localization](https://ieeexplore.ieee.org/document/772597)
+* [The Unscented Kalman Filter for Nonlinear Estimation](https://www.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
+* [Unscented Kalman Filter Tutorial](https://www.cse.sc.edu/~terejanu/files/tutorialUKF.pdf) 
+* [Advanced Vehicle State Estimation: A Tutorial and Comparative Study](https://www.sciencedirect.com/science/article/pii/S2405896317323674)
+* [Quaternion kinematics for the error-state Kalman filter](https://arxiv.org/pdf/1711.02508.pdf) (Advanced Reading)
