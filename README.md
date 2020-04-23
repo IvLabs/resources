@@ -7,6 +7,8 @@ Here you will find all the courses and online materials which are being followed
 * [Control Theory](control-theory)
 * [Deep Learning](deep-learning)
 * [Reinforcement Learning](reinforcement-learning)
+* [Mathematics](mathematics)
+
 
 ## Guidelines for contributing
 1. You are encouraged to add links to the following: 
