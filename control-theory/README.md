@@ -4,6 +4,7 @@
 ### Classical Control
 * [Classical Control Theory](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) by Brian Douglas.
 * [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton.
+* [Control of Mobile Robots](https://www.coursera.org/learn/mobile-robot/home/welcome) by Dr. Magnus Egerstedt.
 ##### Note:- For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
 
 ### Specific Control Methods
