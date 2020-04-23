@@ -3,12 +3,12 @@
 ## Courses:
 ### Beginners:
 
-1. https://www.edx.org/course/autonomous-mobile-robots
-2. https://www.coursera.org/learn/robotics-motion-planning
+1. [Autonomous Mobile Robots](https://www.edx.org/course/autonomous-mobile-robots)
+2. [Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning)
 
 ### Intermediate:
 
-1. https://www.coursera.org/learn/motion-planning-self-driving-cars
+1. [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars)
 
 ## Books:
 1. [Robot motion planning intro](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf)
