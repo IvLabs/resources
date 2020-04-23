@@ -6,8 +6,9 @@ Here you will find all the courses and online materials which are being followed
 ## Topics
 * [Control Theory](control-theory)
 * [Deep Learning](deep-learning)
-* [Reinforcement Learning](reinforcement-learning)
 * [Mathematics](mathematics)
+* [Motion Planning](Motion_planning)
+* [Reinforcement Learning](reinforcement-learning)
 
 
 ## Guidelines for contributing
@@ -22,3 +23,4 @@ Here you will find all the courses and online materials which are being followed
 4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](https://github.com/IvLabs/pc_guidelines/tree/master/opensource_git_contrib)
 5. If you create a new topic folder make sure to link that folder in landing page `README.md`
 6. The name of folder should be consistent with exact format of `word1-word2`. Some NOT allowed forms are `word1word2`, `word1_word2`, `Word1-Word2`, etc. This maintains consistency and proper ordering of folder.
+7. The topic names in [Topic](#Topics) should be in increasing alphabetical order.
