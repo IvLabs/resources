@@ -16,6 +16,10 @@
 #### Adaptive Control
 * [Non-Linear & Adaptive Control](https://nptel.ac.in/courses/108/102/108102113/) (Nptel) lecture by Dr. Shubendu Bhasin.
 
+#### Pure Pursuit controller
+* [Pure pursuit explanation](https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf)
+* [Coursera lecture](https://www.coursera.org/lecture/intro-self-driving-cars/lesson-2-geometric-lateral-control-pure-pursuit-44N7x)
+
 ## Books for Reference
 * [Modern Control Engineering](http://sharif.edu/~salarieh/Downloads/Modern%20Control%20Engineering%205th%20Edition.pdf) by Kastukio Ogota.
 * [Sliding Mode Control](https://books.google.co.in/books?hl=en&lr=&id=8U1ZDwAAQBAJ&oi=fnd&pg=PP1&dq=sarah+spurgeon+sliding+mode+control&ots=IwTbn51TCr&sig=1jw8ajRiCB2PQLp1iY7kHT6bAsk#v=onepage&q=sarah%20spurgeon%he20sliding%20mode%20control&f=false) by Christopher Edwards and Sarah Spurgeon.
