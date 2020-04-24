@@ -7,7 +7,7 @@
 
 * [How a Kalman filter works](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [Student Dave's Tutorials](http://studentdavestutorials.weebly.com/)
-
+* [Overview of localization](http://www.cs.cmu.edu/~rasc/Download/AMRobots5.pdf)
 ### Courses
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss19/robotics/) by Dr. Wolfram Burgard.
 ##### Note:- The course provided by Dr. Wolfram Burgard is good for understanding the underlying math behind the probabilistic algorithms used in state estimation and localization. The course can be taken as an introduction to the various concepts in the field of mobile robotics. 
@@ -23,3 +23,4 @@
 * [Unscented Kalman Filter Tutorial](https://www.cse.sc.edu/~terejanu/files/tutorialUKF.pdf) 
 * [Advanced Vehicle State Estimation: A Tutorial and Comparative Study](https://www.sciencedirect.com/science/article/pii/S2405896317323674)
 * [Quaternion kinematics for the error-state Kalman filter](https://arxiv.org/pdf/1711.02508.pdf) (Advanced Reading)
+* [Madgwick's paper on sensor fusion](https://x-io.co.uk/res/doc/madgwick_internal_report.pdf)
