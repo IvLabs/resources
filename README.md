@@ -7,7 +7,8 @@ Here you will find all the courses and online materials which are being followed
 * [Control Theory](control-theory)
 * [Deep Learning](deep-learning)
 * [Mathematics](mathematics)
-* [Motion Planning](Motion_planning)
+* [Motion Planning](motion-planning)
+* [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 * [Reinforcement Learning](reinforcement-learning)
 
 
