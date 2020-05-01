@@ -19,15 +19,15 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 2. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ### Roadmap to Deep Learning with Images
-1. Get started with [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) to get an idea of how image processing and Computer Vision works. You can do this course upto *Lesson 3: Linearity and Convolution* before moving to DL. This makes a strong mathematical foundation and helps you in easy grasping of DL.
-2. Once you get the hang of Computer Vision, you can start revising basic Linear Algebra alongside. You should have atleast knowlegde of maths taught till 1st your of college. Keep on reading about Linear Algebra throughout the journey of DL.
-3. It is assumed that you know python. If not learn it and then come back.
-4. Then you are finally ready to get started with [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning). The foundation built through these course are very essential. Make proper notes of whatever you read. 
-5. Code your artificial neural networks and Convolution Neural network from scratch using numpy.
-6. You should now pickup a framework to work with. Most members of IvLabs prefer PyTorch. 
-7. You can skip *Sequence Modelling course of Deep Learning Specialization* and do it later if you have interest. 
-8. Keep yourself updated with latest Reasearch Papers. Reddit and Twitter is highly recommended.
-9. Ask for support from seniors who have already worked on these fields.  
+1. Get started with [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) to get an idea of how Image Processing and Computer Vision works. You can do this course upto *Lesson 3: Linearity and Convolution* before moving to DL. This builds a strong mathematical foundation and helps you to easily grasp DL later.
+2. Once you get the hang of Computer Vision, you can start revising basic Linear Algebra alongside. You should atleast have knowledge of maths taught till 1st year of engineering (concepts like differential calculus). Keep on reading about Linear Algebra throughout the journey of DL.
+3. It is assumed that you know Python. If not, then go through some tutorials like [this one by Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
+4. Now, you are ready to start with the [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning). The foundation built through these courses are very essential. Make proper notes during the course.
+5. Code your artificial neural networks and convolutional neural networks from scratch using numpy. These maybe covered within the course itself, so be sure to complete the course assignments with proper understanding.
+6. You should now pickup a framework to work with. Most members of IvLabs prefer PyTorch. In case you have an inclination towards industry, TensorFlow is the way to go, whereas for research, you should go for PyTorch.
+7. You can skip the *Sequence Modelling course of Deep Learning Specialization* and do it later if you are interested in Natural Language Processing (NLP) or signal processing.
+8. Keep yourself updated with latest reasearch papers. Reddit and Twitter are highly recommended for this purpose.
+9. Ask for support from seniors who have already worked on these fields.
 
 #### Natural Language Processing 
 1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
