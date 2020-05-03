@@ -1,7 +1,7 @@
 # Resources for motion planning
 
 ## Courses:
-### Beginners:
+### Beginner level:
 
 1. https://www.edx.org/course/autonomous-mobile-robots
 2. https://www.coursera.org/learn/robotics-motion-planning
@@ -27,6 +27,7 @@
 1. [OMPL](https://ompl.kavrakilab.org/)
 2. [RRT](http://msl.cs.uiuc.edu/rrt/)
 3. [CMU motion planning course homepage](http://www.cs.cmu.edu/~./motionplanning/)
+4. [ROS MoveIt](https://moveit.ros.org/documentation/planners/)
 
 ## Important publications and research groups:
 1. http://ai.stanford.edu/~latombe/pub.htm
