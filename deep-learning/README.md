@@ -42,7 +42,7 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 ## Books
 1. [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 2. [Digital image processing by Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf)
-3. (Computer Vision: Algorithms and Applications by Richard Szeliski)[http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf]
+3. [Computer Vision: Algorithms and Applications by Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
 ## Blog Posts/Tutorials
 1. [Lilian Weng](https://lilianweng.github.io/lil-log/)
