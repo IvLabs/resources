@@ -36,7 +36,7 @@ In order to look for more advanced concepts, one can refer the following lecture
 
 1. [Distinctive Image Features from Scale-Invariant Keypoints](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 2. [SURF: Speeded Up Robust Features](http://people.ee.ethz.ch/~surf/eccv06.pdf)
-3. [A Comparative Evaluation of Well-known Feature Detectors and Descriptors](https://www.researchgate.net/profile/Sahin_Isik/publication 279278472_A_Comparative_Evaluation_of_Well-known_Feature_Detectors_and_Descriptors/links/56a1532e08ae27f7de266583.pdf)
+3. [A Comparative Evaluation of Well-known Feature Detectors and Descriptors](https://www.researchgate.net/publication/279278472_A_Comparative_Evaluation_of_Well-known_Feature_Detectors_and_Descriptors)
 4. [Deep Learning vs. Traditional Computer Vision](https://arxiv.org/pdf/1910.13796.pdf)
 5. [Euclidean Reconstruction from Constant Intrinsic Parameters](http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/heyden-astrom-i-96.pdf)
 
