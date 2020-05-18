@@ -5,11 +5,11 @@ The repository focusses on the traditional aspects of computer vision, particula
 ## Pre - Requisites
 
 ### Linear Algebra
-1. [Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - The course provides a formal introduction to linear algebra. Make sure that one sticks patiently as some of the concepts might seem daunting initially. 
+1. [Linear Algebra by Gilbert Strang, MIT OCW](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - The course provides a formal introduction to linear algebra. Make sure that one sticks patiently as some of the concepts might seem daunting initially. 
 2. [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - It provides the motivation and intuition for some of the concepts.
 
 ### Digital Image Processing
-1. [Prof. Guillermo Sapiro](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) - This course is also available on [Coursera](https://www.coursera.org/learn/image-processing), which helps in building the foundation for some concepts that are used along with computer vision techniques, such as using histogram representation, the concept of filters and denoising, thresholding and contours, followed by some of its applications.
+1. [Image and Video Processing by Guillermo Sapiro, Duke University](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) - This course is also available on [Coursera](https://www.coursera.org/learn/image-processing), which helps in building the foundation for some concepts that are used along with computer vision techniques, such as using histogram representation, the concept of filters and denoising, thresholding and contours, followed by some of its applications.
 2. The above course refers to the text provided by [Digital image processing, Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf) and one can stick only to the text version too, as this is a standard textbook followed for Digital Image Processing. 
 
 ### For Implementation
@@ -18,7 +18,7 @@ For the implementation of some of the concepts, [OpenCV](https://opencv.org/rele
 ## Basic Roadmap
 
 ### Introduction to Computer Vision
-1. To learn basic concepts that are used in computer vision, [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is a good place to start.
+1. To learn basic concepts that are used in computer vision, [Introduction to Computer Vision by Aaron Bobbick, Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is a good place to start.
    1. The course first gives a refresher to basic image processing techniques, before moving on to introducing camera geometry, such as the pinhole model, intrinsic and extrinsic camera parameters and analysing the point correspondences between two views of the same scene.
    1. The course moves on to introduce the concept of features, scale invariance and then introducing the state of the art method, Scale Invariant Feature Transform (SIFT). One can complete the whole course in order to get an idea on different computer vision and image processing techniques.
 2. There is another course, [Computer Vision by Mubarak Shah, University of Central Florida](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm) for introducing the basic concepts in computer vision. The course also has concise lectures on some very famous techniques used such as Lucas Kanade Tracker (KLT), Structure from Motion and Stereo.
@@ -32,7 +32,7 @@ For the implementation of some of the concepts, [OpenCV](https://opencv.org/rele
 
 To look for more advanced concepts, one can refer to the following lecture courses selectively.
 
-1. [Computer Vision for Visual Effects, by Rich Radke, Rensselaer Polytechnique Institute](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
+1. [Computer Vision for Visual Effects by Rich Radke, Rensselaer Polytechnique Institute](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 2. [Photogrammetry Course by Cyrill Stachniss, University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
 3. [Multiple View Geometry by Daniel Cremers, Technical University Munich](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
 
