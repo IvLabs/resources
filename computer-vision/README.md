@@ -9,7 +9,7 @@ The repository focusses on the traditional aspects of computer vision, particula
 2. [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - It provides the motivation and intuition for some of the concepts.
 
 ### Digital Image Processing
-1. [Image and Video Processing by Guillermo Sapiro, Duke University](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) - This course is also available on [Coursera](https://www.coursera.org/learn/image-processing), which helps in building the foundation for some concepts that are used along with computer vision techniques, such as using histogram representation, the concept of filters and denoising, thresholding and contours, followed by some of its applications.
+1. [Image and Video Processing by Guillermo Sapiro, Duke University](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) - This course is also available on [Coursera](https://www.coursera.org/learn/image-processing). It helps in building the foundation for some concepts that are used along with computer vision techniques, such as using histogram representation, the concept of filters and denoising, thresholding and contours, followed by some of its applications.
 2. The above course refers to the text provided by [Digital image processing, Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf) and one can stick only to the text version too, as this is a standard textbook followed for Digital Image Processing. 
 
 ### For Implementation
