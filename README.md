@@ -4,6 +4,7 @@ Initiative by [IvLabs](http://www.ivlabs.in/) to  to share field-wise learning r
 Here you will find all the courses and online materials which are being followed by lab members. These resources have been carefully handpicked to provide the best knowledge.
 
 ## Topics
+* [Computer Vision](computer-vision)
 * [Control Theory](control-theory)
 * [Deep Learning](deep-learning)
 * [Mathematics](mathematics)
