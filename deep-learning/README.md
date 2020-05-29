@@ -39,7 +39,7 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 ## Course Reviews
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+#### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 The Deep Learning Specialization, presented by Andrew Ng, is a collection of five courses, each offering a good requiem of required concepts and implementations for almost all kinds of basic deep learning. The contents and goals of each of the courses are further explained below.
    1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) aims at explaining the basics of neural networks and deep learning, starting from very basic problems like linear and logistic regression. It helps one understand and actually implement neural networks and basic optimization algorithms from scratch, mainly in NumPy. Using an analogy, this course actually teaches you to bake from scratch including how to use an oven.
    2. [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) focuses more on improving the performance of neural networks by employing efficient optimization and normalization algorithms. If the first course is a course that teaches you baking, then this one teaches you how and where to use which ingredient to get the best results. However, the last few assignments are based on TensorFlow.
