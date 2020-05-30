@@ -11,8 +11,8 @@ Please click on following link to see the more info about the specific topic
 * [Deep Learning](deep-learning)
 * [Mathematics](mathematics)
 * [Motion Planning](motion-planning)
-* [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 * [Reinforcement Learning](reinforcement-learning)
+* [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 
 
 ## Guidelines for contributing
