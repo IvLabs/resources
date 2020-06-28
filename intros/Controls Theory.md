@@ -15,21 +15,3 @@
 **What's good about this course ?:** It is fairly different from the general long lectured continuous courses, it maintains a very good balance between theory and its implementation. The concepts are explained really well using some excellent analogies. 
 
 **Course info:** Course focuses on the problem of establishing control over a robot with the pursuit of making it move in a safe and optimal way. The course covers the classic PID control and its applications in controlling a differential drive robot and then moves on to cover the Classical Control Theory which helps span principles and fundamentals applicable for control of almost all types of dynamical systems.
-
-##### Mentors:
-
-* Aditya Shirwatkar
-
-* Varad Vaidya
-
-* Shruti Murarka
-
-* Rajesh
-
-* Prakrut
-
-* Aadesh
-
-* Shamika
-
-* Aditya Wadichar

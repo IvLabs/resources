@@ -10,13 +10,3 @@ This will build the foundation for Computer Vision. It also gives sufficient inf
 
 **Example:** Laptops can be controlled by face gestures (blink to clock, turn head to move mouse, etc).
 
-##### Mentors:
-
-* Arihant Gaur
-
-* Saurabh Kemekar
-
-* Mayank Bumb
-
-* Aayush Fadia
-
