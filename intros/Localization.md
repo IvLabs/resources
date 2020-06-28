@@ -23,9 +23,3 @@ This concept is critical if you wish to develop any autonomous robot. However th
 [Self Driving Car Specialization](https://www.coursera.org/specializations/self-driving-cars?) 
 
 About this course- In these courses you will learn about the basic concepts of different types of motion models of a mobile robot, some basic concepts regarding probability and Euclidean geometry. Further these courses cover various SLAM algorithms such as Kalman Filters, Extended Kalman Filters, Unscented Kalman Filters and Information filters.
-
-### Mentors 
-
-* Kushagra Srivastava
-
-* Harshad Salunke

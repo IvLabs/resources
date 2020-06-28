@@ -21,27 +21,3 @@ The Deep Learning Specialization, presented by Andrew Ng, is a collection of fiv
 A healthy approach, containing a good mix of results and fairly decent understanding would be to first complete the first two courses, then study the fourth one along with a bit of Image Processing and Computer vision followed by a small project using NumPy, from scratch, followed by an introductory project like [The Digit Classifier](http://www.ivlabs.in/mnist.html) using either PyTorch or TensorFlow.The fifth course can be a bit heavy if done before implementing a project or two using Image Processing and Deep Learning even though it deals with a very different paradigm. The third course, however, holds little potential with respect to research-oriented learning.
 
 **Example:** A robot that is capable of following a person around, a robot that can climb stairs, and lots, lots more.
-
-### Mentors:
-
-* Khurshed Fitter
-
-* Rishika Bhagwatkar
-
-* Ritik Agrawal
-
-* Saketh
-
-* Sushant Kumar
-
-* Aadhithya Iyer
-
-* Raj Ghugre
-
-* Shreyash Waghe
-
-* Aayush Fadia
-
-* Jayesh Kandpal
-
-* Yogesh Govindani
