@@ -4,7 +4,7 @@
 ### Classical Control
 * [Classical Control Theory](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) by Brian Douglas.                  
   **_Why this lecture series? :_** 
-This collection of videos is intended to supplement a first-year controls class, not replace it. My goal is to take specific concepts in controls and expand on them to provide an intuitive understanding which will ultimately make you a better controls engineer.
+This collection of videos is intended to supplement a first-year controls class, not replace it. Here the goal will to take specific concepts in controls and expand on them to provide an intuitive understanding which will ultimately make one a better controls engineer.
 Let's take an example of a system that we want to control, say a simple pendulum (the most basic example), suppose we want the pendulum to go upright and stay there, well how do we achieve that? The most basic approach is using the knowledge from control systems to make it stay upright and be able to handle external disturbances for robustness.
 
 * [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton.                                      
