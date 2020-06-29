@@ -55,7 +55,7 @@ Let's take an example of a system that we want to control, say a simple pendulum
 * [Python Control Systems package](https://python-control.readthedocs.io/en/0.8.3/)
 * [C++ control toolbox](https://github.com/ethz-adrl/control-toolbox)
 * [Drake](https://drake.mit.edu/)
-* [OpenAi Gym](http://gym.openai.com/) (Some environments will need to be modified to implement control algorithms)
+* [OpenAI Gym](http://gym.openai.com/) (Some environments will need to be modified to implement control algorithms)
 
 
 ### Some Interesting Repositories to check out
