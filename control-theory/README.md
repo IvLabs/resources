@@ -63,4 +63,4 @@ Let's take an example of a system that we want to control, say a simple pendulum
 * [Python - Robotic Algorithms](https://github.com/AtsushiSakai/PythonRobotics)
 * [Robotics Planning, Dynamics and Control](https://github.com/YashBansod/Robotics-Planning-Dynamics-and-Control)
 * [MATLAB - Trajectory Optimization](https://github.com/MatthewPeterKelly/OptimTraj)
-* [TOWR (Trajectory Optimization Library for legged Robots)](https://github.com/ethz-adrl/towr)
+* [TOWR](https://github.com/ethz-adrl/towr) (Trajectory Optimization Library for legged Robots)
