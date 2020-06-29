@@ -2,6 +2,7 @@
 Initiative by [IvLabs](http://www.ivlabs.in/) to  to share field-wise learning resources.
 
 Here you will find all the courses and online materials which are being followed by lab members. These resources have been carefully handpicked to provide the best knowledge.
+
 ---
 
 ## Table of contents
@@ -33,7 +34,7 @@ This directory contains individual markdown files for each field, visit this oft
 
 - First read about all the courses provided above, **don’t make a hasty decision.**
 - Then before deciding a course based on only what’s given above, please Google or consult the respective senior/mentor and try to understand what exactly does that field of study cover.
-- At some point in all of these courses, you may get stuck up, and in such a case, it is best to utilize the web and if nothing works out, feel free to contact your mentors/seniors. This will **help you learn, how to Google and what to Google.**
+- At some point in all of these courses, you may get stuck up, and in such a case, it is best to utilize the web and if nothing works out, feel free to contact your mentors/seniors. This will **help you learn how to Google and what to Google.**
 - Google advances in each field, find out about the latest trends in each.
 - **Do not select courses on the basis of peer pressure**. Please take independent decisions.
 - **Now is the time to explore**. If at any point you feel like the current course that you are doing or field that you are working in isn’t meant for you or you aren’t getting the "*kick*", you can consult your mentors or any of the lab members before switching the course or field. Don’t be afraid of asking us anything, feel free.
