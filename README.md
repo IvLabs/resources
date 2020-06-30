@@ -1,7 +1,7 @@
-# Resources
-Initiative by [IvLabs](http://www.ivlabs.in/) to  to share field-wise learning resources.
+# Resources and Roadmaps to various fields of AI and Robotics
 
-Here you will find all the courses and online materials which are being followed by lab members. These resources have been carefully handpicked to provide the best knowledge.
+Initiative by [IvLabs](http://www.ivlabs.in/) to  to share field-wise learning resources.
+Here you will find all the courses and online materials which are being followed by IvLabs members. These resources have been carefully handpicked to provide the best knowledge.
 
 ---
 
