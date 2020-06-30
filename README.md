@@ -1,4 +1,4 @@
-![](ivlabs-black.png)
+![http://ivlabs.in/](ivlabs-black.png)
 # Resources and Roadmaps for AI and Robotics 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/resources?style=social)](https://github.com/IvLabs/resources/stargazers)
@@ -42,7 +42,7 @@ This directory contains individual markdown files for each field, visit this oft
 - Google advances in each field, find out about the latest trends in each.
 - **Do not select courses on the basis of peer pressure**. Please take independent decisions.
 - **Now is the time to explore**. If at any point you feel like the current course that you are doing or field that you are working in isn’t meant for you or you aren’t getting the "*kick*", you can consult your mentors or any of the lab members before switching the course or field. Don’t be afraid of asking us anything, feel free.
-- Visit IvLabs [website](https://ivlabs.in)
+- Visit IvLabs [website](https://ivlabs.in) and go through some past projects done by IvLabs members.
 - Go through projects, see YouTube videos, and take notes when you find something is interesting, if need be.
 - This GitHub organization, the one you're seeing this repo on, has all members and projects, check them out.
 
