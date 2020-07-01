@@ -9,8 +9,7 @@ Here you will find all the courses and online materials which are being followed
 ---
 <details>
 <summary>Table of content</summary>
-* [List of Topics](#topics)
-
+* [List of Topics](#list-of-topics)
 * [Guidelines for contributing](#guidelines-for-contributing)
 </details>
 
