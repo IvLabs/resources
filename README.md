@@ -28,6 +28,7 @@ Please click on following link to see the more info about the specific topic
 * [Reinforcement Learning](reinforcement-learning)
 * [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 
+NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 ## Guidelines for contributing
 1. You are encouraged to add links to the following: 
    * Online courses
