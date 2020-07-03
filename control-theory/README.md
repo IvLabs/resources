@@ -26,6 +26,8 @@
 * [Coursera lecture](https://www.coursera.org/lecture/intro-self-driving-cars/lesson-2-geometric-lateral-control-pure-pursuit-44N7x)
 
 ## Books for Reference
+* [Robotics Modeling, Planning, and Controls](https://books.google.co.in/books/about/Robotics.html?id=VsTOQOnQjCAC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) By Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo. 
 * [Modern Control Engineering](http://sharif.edu/~salarieh/Downloads/Modern%20Control%20Engineering%205th%20Edition.pdf) by Kastukio Ogota.
 * [Sliding Mode Control](https://books.google.co.in/books?hl=en&lr=&id=8U1ZDwAAQBAJ&oi=fnd&pg=PP1&dq=sarah+spurgeon+sliding+mode+control&ots=IwTbn51TCr&sig=1jw8ajRiCB2PQLp1iY7kHT6bAsk#v=onepage&q=sarah%20spurgeon%he20sliding%20mode%20control&f=false) by Christopher Edwards and Sarah Spurgeon.
 * [Non-Linear and adaptive control](https://books.google.co.in/books/about/Nonlinear_and_Adaptive_Control_Systems.html?id=fygdICP0g0kC&redir_esc=y) by Zhengato Din. (Good explanation of Backstepping).
+
