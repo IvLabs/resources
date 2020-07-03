@@ -1,6 +1,6 @@
 # Computer Vision
 
-The repository focusses on the traditional aspects of computer vision, particularly multiview geometry.
+Extracting information from Images, that help robots “see” and “perceive” as humans do, and understand it’s environment using input from it’s camera. The repository focusses on the traditional aspects of computer vision, particularly multiview geometry. 
 
 ## Pre - Requisites
 
@@ -21,7 +21,10 @@ For the implementation of some of the concepts, [OpenCV](https://opencv.org/rele
 1. To learn basic concepts that are used in computer vision, [Introduction to Computer Vision by Aaron Bobbick, Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is a good place to start.
    1. The course first gives a refresher on basic image processing techniques, before introducing camera geometry, such as the pinhole model, intrinsic and extrinsic camera parameters and analysing the point correspondences between two views of the same scene.
    1. The course moves on to introduce the concept of features, scale invariance and then presents the state of the art method, Scale Invariant Feature Transform (SIFT). One can complete the whole course in order to get an idea of different computer vision and image processing techniques.
+   1. This will build the foundation for Computer Vision. It also gives sufficient information on Digital Image Processing and the concepts that will be required for the same. If someone watches all the lectures, they are ready to work on a good project in this field. It is recommended that the student is proficient in either MATLAB/Octave or Python. If you are opting for Python, make sure to check out [NumPy](https://numpy.org/) (helpful, but not necessary) and [OpenCV](https://docs.opencv.org/) (for Python. Read up to and including [Image Processing in OpenCV](https://docs.opencv.org/4.1.2/d6/d00/tutorial_py_root.html)), which are the associated libraries that will help you to implement many of the concepts. If one does the first 20% (we encourage anyone who takes this course to watch it till the end) of the course too, then he/she will be able to implement a virtual drawing pad, which requires some basic, but power image processing techniques. As one dives into the concept of features, the student will be able to implement more powerful algorithms that will help in projects such as stitching of two images for making panorama, camera calibration to estimate the focal length of the camera using just the camera feed, removal of distortion from the camera output using mathematical techniques, etc.
+
 2. There is another course, [Computer Vision by Mubarak Shah, University of Central Florida](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm) for the basic concepts of computer vision. The course also has concise lectures on some very famous techniques used such as Lucas Kanade Tracker (KLT), Structure from Motion and Stereo.
+
 3. For the feature detection and matching techniques, one can have a look at the [documentation](https://docs.opencv.org/3.4.2/db/d27/tutorial_py_table_of_contents_feature2d.html) provided by OpenCV. The documentation starts with an introduction to the concept of features, followed by discussing various techniques to obtain the feature points. 
 
 ### Books
