@@ -41,4 +41,4 @@ NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](https://github.com/IvLabs/pc_guidelines/tree/master/opensource_git_contrib)
 5. If you create a new topic folder make sure to **link that folder in landing page `README.md`**
 6. The **name of folder should be consistent with exact format of `word1-word2`**. Some NOT allowed forms are `word1 word2`, `word1word2`, `Word1-word2`, etc. This maintains consistency and proper ordering of folder.
-7. The topic names in [Topic](#Topics) should be in increasing alphabetical order.
+7. The topic names in [List of Topics](#list-of-topics) should be in increasing alphabetical order.
