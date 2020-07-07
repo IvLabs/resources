@@ -1,4 +1,4 @@
-# Deep Learning Resources
+# Machine Learning and Deep Learning
 
 ## Roadmap to Deep Learning for Visual Recognition
 
