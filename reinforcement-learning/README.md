@@ -21,7 +21,6 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 
 1. [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 
----
 
 ## Books
 
@@ -29,14 +28,12 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 2. [Markov Decision Processes: Discrete Stochastic Dynamic Programming by Martin Puterman](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 3. [Reinforcement Learning and Optimal Control by Dimitri Bertsekas](https://web.mit.edu/dimitrib/www/RLbook.html)
 
----
 
 ## Clean Implementations
 
 1. [RL-Adventure](https://github.com/higgsfield/RL-Adventure) and [RL-Adventure2](https://github.com/higgsfield/RL-Adventure) by [higgsfield](https://higgsfield.github.io/)
 2. [RLlib: Scalable Reinforcement Learning](https://docs.ray.io/en/latest/rllib.html#rllib-scalable-reinforcement-learning)
 
----
 
 ## Blog Posts/Tutorials
 
@@ -44,7 +41,6 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 2. [Deep Reinforcement Series by Jonathan Hui](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
 3. [All the fantastic blogs by Lilian Weng](https://lilianweng.github.io/lil-log/)
 
----
 
 ## Research Papers
 

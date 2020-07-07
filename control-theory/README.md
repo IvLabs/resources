@@ -10,7 +10,7 @@ This collection of videos is intended to supplement a first-year controls class,
 Let's take an example of a system that we want to control, say a simple pendulum (the most basic example), suppose we want the pendulum to go upright and stay there, well how do we achieve that? The most basic approach is using the knowledge from control systems to make it stay upright and be able to handle external disturbances for robustness.
 
 * [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton.
-  **_Series info :_** This course provides a rapid overview of optimal control (controllability, observability, LQR, Kalman filter, etc.).  It is not meant to be an exhaustive treatment, but instead provides a high-level overview of some of the main approaches, applied to simple examples in Matlab.  
+  **_Series info :_** This course provides a rapid overview of optimal control (controllability, observability, LQR, Kalman filter, etc.).  It is not meant to be an exhaustive treatment, but instead provides a high-level overview of some of the main approaches, applied to simple examples in Matlab.
   
 **Note:**
 For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
@@ -28,7 +28,6 @@ For beginners, It is recommended to first go through Brian Douglas (till video 2
 **Note:**
 For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
 
----
 
 ## Specific Control Methods
 
@@ -49,7 +48,6 @@ For beginners, It is recommended to first go through Brian Douglas (till video 2
 * [Pure pursuit explanation](https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf)
 * [Coursera lecture](https://www.coursera.org/lecture/intro-self-driving-cars/lesson-2-geometric-lateral-control-pure-pursuit-44N7x)
 
----
 
 ## Books for Reference
 
@@ -58,7 +56,6 @@ For beginners, It is recommended to first go through Brian Douglas (till video 2
 * [Sliding Mode Control](https://books.google.co.in/books?hl=en&lr=&id=8U1ZDwAAQBAJ&oi=fnd&pg=PP1&dq=sarah+spurgeon+sliding+mode+control&ots=IwTbn51TCr&sig=1jw8ajRiCB2PQLp1iY7kHT6bAsk#v=onepage&q=sarah%20spurgeon%he20sliding%20mode%20control&f=false) by Christopher Edwards and Sarah Spurgeon.
 * [Non-Linear and adaptive control](https://books.google.co.in/books/about/Nonlinear_and_Adaptive_Control_Systems.html?id=fygdICP0g0kC&redir_esc=y) by Zhengato Din. (Good explanation of Backstepping).
 
----
 
 ## Libraries, Tools and Frameworks
 
@@ -70,7 +67,6 @@ For beginners, It is recommended to first go through Brian Douglas (till video 2
 * [Drake](https://drake.mit.edu/)
 * [OpenAI Gym](http://gym.openai.com/) (Some environments will need to be modified to implement control algorithms)
 
----
 
 ### Some Interesting Repositories to check out
 

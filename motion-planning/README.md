@@ -12,7 +12,6 @@
 
 1. [Self Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars)
 
----
 
 ## Books
 
@@ -24,13 +23,11 @@
 6. [Autonomous mobile robots by R. Siegwart, Nourbakhsh](http://home.deib.polimi.it/gini/robot/docs/siegwart.pdf)
 7. [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
 
----
 
 ## Path planning Thesis
 
 1. [KTH karl kurzer](https://www.researchgate.net/profile/Karl_Kurzer/publication/337719881_Path_Planning_in_Unstructured_Environments_A_Real-time_Hybrid_A_Implementation_for_Fast_and_Deterministic_Path_Generation_for_the_KTH_Research_Concept_Vehicle/links/5de6b10292851c83645fc109/Path-Planning-in-Unstructured-Environments-A-Real-time-Hybrid-A-Implementation-for-Fast-and-Deterministic-Path-Generation-for-the-KTH-Research-Concept-Vehicle.pdf)
 
----
 
 ## Important libraries and webpages
 
@@ -39,7 +36,6 @@
 3. [CMU motion planning course homepage](http://www.cs.cmu.edu/~./motionplanning/)
 4. [ROS MoveIt](https://moveit.ros.org/documentation/planners/)
 
----
 
 ## Important publications and research groups
 

@@ -2,7 +2,6 @@
 
 IoT deals with all manner of conventional devices made smart and connected, so they can be made more convenient to use. Applications can range from increasing convenience, like connecting a light bulb to your phone, so you don’t have to move to switch it on and off, to safety applications to detect and warn users about harmful gases, and the like.
 
----
 
 ## Course
 
