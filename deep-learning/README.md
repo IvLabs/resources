@@ -16,6 +16,8 @@
 - If one's focusing on deep learning for Computer Vision/Perception application then Image Processing and complete course on [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is requisite. Perception includes concepts of 3D perspective, Stereo, Optical flow, object tracking, visual recognition etc which are all very important. In simple words, Image Processing is kinematics and Computer Vision is dynamics. Book on [Computer Vision:
 Algorithms and Applications by Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) is a very good book for reference and focuses more towards mathematical approaches.
 
+---
+
 ## Courses
 In these courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to undertake Deep Learning projects systematically.
 
@@ -38,6 +40,8 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
+---
+
 ## Course Reviews
 #### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 The Deep Learning Specialization, presented by Andrew Ng, is a collection of five courses, each offering a good requiem of required concepts and implementations for almost all kinds of basic deep learning. The contents and goals of each of the courses are further explained below.
@@ -51,13 +55,19 @@ A healthy approach, containing a good mix of results and fairly decent understan
 
 The fifth course can be a bit heavy if done before implementing a project or two using Image Processing and Deep Learning even though it deals with a very different paradigm. The third course, however, holds little potential with respect to research-oriented learning
 
+---
+
 ## Books
 1. [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 2. [Digital image processing by Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf)
 3. [Computer Vision: Algorithms and Applications by Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
+---
+
 ## Blog Posts/Tutorials
 1. [Lilian Weng](https://lilianweng.github.io/lil-log/)
+
+---
 
 ## Framework Tutorials
 1. TensorFlow
