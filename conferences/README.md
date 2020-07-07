@@ -7,12 +7,12 @@
 4. **International Symposium on Experimental Robotics (ISER)**: Good for more practical/experimental work
 5. **International Symposium on Robotics Research (ISRR)**: Get direct entry into IJRR!
 6. **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**: Highest-rated conference among all engineering disciplines
-7. **Neural Information Processing Systems (NeurIPS)**
-8. **International Conference on Learning Representations (ICLR)**
-9. **European Conference on Computer Vision (ECCV) (even year) / IEEE/CVF International Conference on Computer Vision (ICCV) (odd year)**
-10. **International Conference on Machine Learning (ICML)**
-11. **British Machine Vision Conference (BMVC)**
-12. **Workshop on Applications of Computer Vision (WACV)**
+7. **Neural Information Processing Systems (NeurIPS)**: Good for theoretical research in Machine Learning and Computational Neuroscience
+8. **International Conference on Learning Representations (ICLR)**: Good for theoretical research in Deep Learning and Representation Learning
+9. **European Conference on Computer Vision (ECCV) (even year) / IEEE/CVF International Conference on Computer Vision (ICCV) (odd year)**: Good for theoretical as well as application-based research in Computer Vision and Pattern Recognition
+10. **International Conference on Machine Learning (ICML)**: Good for theoretical research in Machine Learning
+11. **British Machine Vision Conference (BMVC)**: Good for theoretical as well as application-based research in Computer Vision
+12. **Workshop on Applications of Computer Vision (WACV)**: more focused towards applications in Computer Vision
 
 Journals:
 ## Journals
