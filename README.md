@@ -10,12 +10,13 @@ Here you will find all the courses and online materials which are being followed
 <details>
 <summary>Table of content</summary>
 
-* [List of Topics](#list-of-topics)
+1. [List of Topics](#list-of-various-field)
+2. [Guidelines for contributing](#guidelines-for-contributing)
+3. [Miscellaneous Topics](#miscellaneous-topics)
 
-* [Guidelines for contributing](#guidelines-for-contributing)
 </details>
 
-## List of Topics
+## List of Various Fields
 Please click on following link to see the more info about the specific topic
 
 * [Computer Vision](computer-vision)
@@ -28,7 +29,16 @@ Please click on following link to see the more info about the specific topic
 * [Reinforcement Learning](reinforcement-learning)
 * [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 
+
+## Miscellaneous Topics
+To keep yourself updated with the field we highly recommend you listen to Podcasts, read subreddit (eg r/MachineLearning), follow Professors on Twitter, attend Flagship conferences etc. Alongside with doing courses you should also have a good grip with Linux OS and be proficient in programming. Click on following links to see the compilation done by IvLabs members.
+
+* [Conferences](conferences)
+* [Software Skill building](software) 
+* [Talks, Podcasts and Seminars](talks)
+
 NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
+
 ## Guidelines for contributing
 1. You are encouraged to add links to the following: 
    * Online courses
