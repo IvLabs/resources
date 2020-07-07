@@ -2,7 +2,9 @@
 
 Extracting information from Images, that help robots “see” and “perceive” as humans do, and understand it’s environment using input from it’s camera. The repository focusses on the traditional aspects of computer vision, particularly multiview geometry. 
 
-## Pre - Requisites
+---
+
+## Prerequisites
 
 ### Linear Algebra
 1. [Linear Algebra by Gilbert Strang, MIT OCW](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - The course provides a formal introduction to linear algebra. Go through the course patiently because some concepts might seem daunting initially. 
@@ -14,6 +16,8 @@ Extracting information from Images, that help robots “see” and “perceive�
 
 ### Implementation
 For the implementation of some of the concepts, [OpenCV](https://opencv.org/releases/) will help you. The documentation not only explains the concepts but also shows how it can be implemented using Python/C++.
+
+---
 
 ## Basic Roadmap
 
@@ -27,11 +31,15 @@ For the implementation of some of the concepts, [OpenCV](https://opencv.org/rele
 
 3. For the feature detection and matching techniques, one can have a look at the [documentation](https://docs.opencv.org/3.4.2/db/d27/tutorial_py_table_of_contents_feature2d.html) provided by OpenCV. The documentation starts with an introduction to the concept of features, followed by discussing various techniques to obtain the feature points. 
 
-### Books
+---
+
+## Books
 1. [Computer Vision: Algorithms and Applications, Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) - This is a standard textbook for Computer Vision. It is recommended to have a strong mathematical base to properly understand some of the sections.  
 2. [Multiple View Geometry in computer vision, Richard Hartley and Andrew Zisserman](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf) - This book is specific to multiview geometry. One can refer to this book for more advanced topics.
 
-### Other Lecture Series
+---
+
+## Other Lecture Series
 
 For more advanced concepts, one can refer to the following lecture courses selectively.
 
@@ -39,12 +47,16 @@ For more advanced concepts, one can refer to the following lecture courses selec
 2. [Photogrammetry Course by Cyrill Stachniss, University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
 3. [Multiple View Geometry by Daniel Cremers, Technical University Munich](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
 
-### Lecture Notes
+---
+
+## Lecture Notes
 
 1. [Computer Vision, Carnegie Mellon University](http://www.cs.cmu.edu/~16385/)
 2. [Computer Vision Group, TUM Department of Informatics](https://vision.in.tum.de/teaching/ss2020?redirect=1)
 
-### Publications
+---
+
+## Publications
 
 1. [Distinctive Image Features from Scale-Invariant Keypoints](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 2. [SURF: Speeded Up Robust Features](http://people.ee.ethz.ch/~surf/eccv06.pdf)
