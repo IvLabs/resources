@@ -39,7 +39,7 @@ This concept is critical if you wish to develop any autonomous robot. However th
 * [SLAM-Course](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) by Cyrill Stachniss.
 
 * [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars/home/welcome)
-In these courses you will learn about the basic concepts of different types of motion models of a mobile robot, some basic concepts regarding probability and Euclidean geometry. Further these courses cover various probabilistic algorithms such as Kalman Filters, Extended Kalman Filters and Unscented Kalman Filters which work on the Prediction-Correction Cycle. This course is specifically crafted for understanding the various methodologies used for localization, sensor fusion, sensor selection, etc. in self-driving cars. It may not cover all the concepts of localization used in robotics, but is targeted for an audience specifically interested in self-driving cars.
+In these courses you will learn about the basic concepts of different types of motion models of a mobile robot, some basic concepts regarding probability and Euclidean geometry. Further these courses cover various probabilistic state estimation algorithms such as Kalman Filters, Extended Kalman Filters and Unscented Kalman Filters which work on the Prediction-Correction Cycle. This course is specifically crafted for understanding the various methodologies used for localization, sensor fusion, sensor selection, etc. in self-driving cars. It may not cover all the concepts of localization used in robotics, but is targeted for an audience specifically interested in self-driving cars.
 
 
 ## Books and research papers for Reference
