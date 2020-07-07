@@ -24,6 +24,8 @@
 
 1. [Gilbert Strang's Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
 
+---
+
 # General
 
 1. [Math Fundamentals for Robotics by Michael Erdmann](http://www.cs.cmu.edu/~me/811/)
