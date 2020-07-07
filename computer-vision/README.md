@@ -7,14 +7,17 @@ Extracting information from Images, that help robots “see” and “perceive�
 ## Prerequisites
 
 ### Linear Algebra
+
 1. [Linear Algebra by Gilbert Strang, MIT OCW](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) - The course provides a formal introduction to linear algebra. Go through the course patiently because some concepts might seem daunting initially. 
 2. [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - It provides the motivation and intuition for some of the concepts.
 
 ### Digital Image Processing
+
 1. [Image and Video Processing by Guillermo Sapiro, Duke University](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs) - This course is also available on [Coursera](https://www.coursera.org/learn/image-processing). It helps in building the foundation for some concepts that are used along with computer vision techniques, such as using histogram representation, the concept of filters and denoising, thresholding and contours, followed by some of its applications.
 2. The above course refers to the text provided by [Digital image processing, Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf) and one can choose to follow just this book, as it is a standard textbook for Digital Image Processing. 
 
 ### Implementation
+
 For the implementation of some of the concepts, [OpenCV](https://opencv.org/releases/) will help you. The documentation not only explains the concepts but also shows how it can be implemented using Python/C++.
 
 ---
@@ -22,6 +25,7 @@ For the implementation of some of the concepts, [OpenCV](https://opencv.org/rele
 ## Basic Roadmap
 
 ### Introduction to Computer Vision
+
 1. To learn basic concepts that are used in computer vision, [Introduction to Computer Vision by Aaron Bobbick, Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is a good place to start.
    1. The course first gives a refresher on basic image processing techniques, before introducing camera geometry, such as the pinhole model, intrinsic and extrinsic camera parameters and analysing the point correspondences between two views of the same scene.
    1. The course moves on to introduce the concept of features, scale invariance and then presents the state of the art method, Scale Invariant Feature Transform (SIFT). One can complete the whole course in order to get an idea of different computer vision and image processing techniques.
@@ -34,6 +38,7 @@ For the implementation of some of the concepts, [OpenCV](https://opencv.org/rele
 ---
 
 ## Books
+
 1. [Computer Vision: Algorithms and Applications, Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) - This is a standard textbook for Computer Vision. It is recommended to have a strong mathematical base to properly understand some of the sections.  
 2. [Multiple View Geometry in computer vision, Richard Hartley and Andrew Zisserman](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf) - This book is specific to multiview geometry. One can refer to this book for more advanced topics.
 
@@ -63,4 +68,3 @@ For more advanced concepts, one can refer to the following lecture courses selec
 3. [A Comparative Evaluation of Well-known Feature Detectors and Descriptors](https://www.researchgate.net/publication/279278472_A_Comparative_Evaluation_of_Well-known_Feature_Detectors_and_Descriptors)
 4. [Deep Learning vs. Traditional Computer Vision](https://arxiv.org/pdf/1910.13796.pdf)
 5. [Euclidean Reconstruction from Constant Intrinsic Parameters](http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/heyden-astrom-i-96.pdf)
-
