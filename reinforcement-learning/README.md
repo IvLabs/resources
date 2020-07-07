@@ -1,4 +1,4 @@
-# Reinforcement Learning Resources
+# Reinforcement Learning
 
 ## Courses
 
