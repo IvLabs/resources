@@ -18,11 +18,14 @@
 ### Conferences
 1. **Neural Information Processing Systems (NeurIPS)**: Good for theoretical research in Machine Learning and Computational Neuroscience
 2. **International Conference on Learning Representations (ICLR)**: Good for theoretical research in Deep Learning and Representation Learning
-3. **International Conference on Machine Learning (ICML)**: Good for theoretical research in Machine Learning
+3. **International Conference on Machine Learning (ICML)**: Good for theoretical research in Machine Learning, papers are published in JMLR
 4. **Conference on Learning Theory (CoLT)**: Pure theoretical machine learning conference
 5. **Reinforcement Learning and Decision Making (RLDM)**: This is the only conference dedicated to pure RL
 6. **Association for the Advancement of Artificial Intelligence (AAAI) Conference**: Covers wide variety of topics in AI
 7. **International Conference on Artificial Intelligence and Statistics (AISTATS)**: Theoretical conference for Statistics and Machine Learning
+
+### Journals
+1. **Journal of Machine Learning Research (JMLR)**: Top journal for Machine Learning research
 
 ## Computer Vision
 ### Conferences
