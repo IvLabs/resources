@@ -10,7 +10,8 @@ Let's take an example of a system that we want to control, say a simple pendulum
 * [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton.                                      
   **_Series info :_** This course provides a rapid overview of optimal control (controllability, observability, LQR, Kalman filter, etc.).  It is not meant to be an exhaustive treatment, but instead provides a high-level overview of some of the main approaches, applied to simple examples in Matlab.  
   
-##### Note:- For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
+** Note: **
+For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
 
 
 * [Control of Mobile Robots](https://www.coursera.org/learn/mobile-robot/home/welcome) by Dr. Magnus Egerstedt.                          
@@ -19,14 +20,16 @@ Let's take an example of a system that we want to control, say a simple pendulum
 **_Course info:_** Course focuses on the problem of establishing control over a robot with the pursuit of making it move safely and optimally. The course covers the classic PID control and its applications in controlling a differential drive robot and then moves on to cover few concepts from the Classical Control Theory which helps span principles and fundamentals applicable for control of almost all types of dynamical systems.
  
  
-#### Graduate level: 
+#### Graduate level:
 * [Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2020/) by Dr. Russ Tedrake.                                                      
 **_Course info:_** Take a few examples like trajectories of a quadrotor being generated to play a game of pong, Or maybe a humanoid performing a backflip, Or for a simple case make an Acrobot stay upright. In all these cases we can observe that the control algorithms are exploiting the dynamics to perform a task no matter how bizarre it is. Well, this course will help you exploit those dynamics of any given system to perform tasks that may seem impossible from the classical control theory point of view. The course covers techniques like Dynamic Programming, LQR, Lyapunov Analysis, Trajectory Optimization, Model Predictive Control, Motion Planning as Search, Pixels to Torques, Robust and Stochastic Control to State Estimation, Reinforcement Learning and few other techniques
 
-##### Note:- For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
+** Note: **
+For beginners, It is recommended to first go through Brian Douglas (till video 27) course before starting Steve Brunton's course.
 
+---
 
-### Specific Control Methods
+## Specific Control Methods
 #### PID control
 * [Understanding PID control](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) from MATLAB.
 
@@ -40,6 +43,7 @@ Let's take an example of a system that we want to control, say a simple pendulum
 * [Pure pursuit explanation](https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf)
 * [Coursera lecture](https://www.coursera.org/lecture/intro-self-driving-cars/lesson-2-geometric-lateral-control-pure-pursuit-44N7x)
 
+---
 
 ## Books for Reference
 * [Robotics Modeling, Planning, and Controls](https://books.google.co.in/books/about/Robotics.html?id=VsTOQOnQjCAC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) By Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo. 
@@ -47,10 +51,9 @@ Let's take an example of a system that we want to control, say a simple pendulum
 * [Sliding Mode Control](https://books.google.co.in/books?hl=en&lr=&id=8U1ZDwAAQBAJ&oi=fnd&pg=PP1&dq=sarah+spurgeon+sliding+mode+control&ots=IwTbn51TCr&sig=1jw8ajRiCB2PQLp1iY7kHT6bAsk#v=onepage&q=sarah%20spurgeon%he20sliding%20mode%20control&f=false) by Christopher Edwards and Sarah Spurgeon.
 * [Non-Linear and adaptive control](https://books.google.co.in/books/about/Nonlinear_and_Adaptive_Control_Systems.html?id=fygdICP0g0kC&redir_esc=y) by Zhengato Din. (Good explanation of Backstepping).
 
-
+---
 
 ## Libraries, Tools and Frameworks
-
 * [ROS](https://www.ros.org/)
 * [Matlab & Simulink (For Windows)](https://in.mathworks.com/)
 * [CasADi](https://web.casadi.org/)
@@ -59,9 +62,9 @@ Let's take an example of a system that we want to control, say a simple pendulum
 * [Drake](https://drake.mit.edu/)
 * [OpenAI Gym](http://gym.openai.com/) (Some environments will need to be modified to implement control algorithms)
 
+---
 
 ### Some Interesting Repositories to check out
-
 * [Python - Robotic Algorithms](https://github.com/AtsushiSakai/PythonRobotics)
 * [Robotics Planning, Dynamics and Control](https://github.com/YashBansod/Robotics-Planning-Dynamics-and-Control)
 * [MATLAB - Trajectory Optimization](https://github.com/MatthewPeterKelly/OptimTraj)
