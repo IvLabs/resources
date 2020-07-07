@@ -1,4 +1,4 @@
-# Resources for motion planning
+# Motion Planning
 
 ## Courses
 
