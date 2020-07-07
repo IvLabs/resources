@@ -26,7 +26,7 @@
 
 ## Path planning Thesis
 
-1. [KTH karl kurzer](https://www.researchgate.net/profile/Karl_Kurzer/publication/337719881_Path_Planning_in_Unstructured_Environments_A_Real-time_Hybrid_A_Implementation_for_Fast_and_Deterministic_Path_Generation_for_the_KTH_Research_Concept_Vehicle/links/5de6b10292851c83645fc109/Path-Planning-in-Unstructured-Environments-A-Real-time-Hybrid-A-Implementation-for-Fast-and-Deterministic-Path-Generation-for-the-KTH-Research-Concept-Vehicle.pdf)
+1. [KTH Karl Kurzer](https://www.researchgate.net/profile/Karl_Kurzer/publication/337719881_Path_Planning_in_Unstructured_Environments_A_Real-time_Hybrid_A_Implementation_for_Fast_and_Deterministic_Path_Generation_for_the_KTH_Research_Concept_Vehicle/links/5de6b10292851c83645fc109/Path-Planning-in-Unstructured-Environments-A-Real-time-Hybrid-A-Implementation-for-Fast-and-Deterministic-Path-Generation-for-the-KTH-Research-Concept-Vehicle.pdf)
 
 
 ## Important libraries and webpages

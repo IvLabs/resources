@@ -9,7 +9,7 @@ Basic Knowledge about Probability, Jacobians, Linear Algebra and Numpy in python
 
 ## Course is fit for
 
-This field being a part of Probabilistic Robotics is fit for people who are interested in the planning, mobile robotics, software aspect of robotics and developing autonomous robots.Navigation is one of the most challenging competencies required of a mobile robot. Success in navigation requires success at the four building blocks of navigation:
+This field being a part of Probabilistic Robotics is fit for people who are interested in the planning, mobile robotics, software aspect of robotics and developing autonomous robots. Navigation is one of the most challenging competencies required of a mobile robot. Success in navigation requires success at the four building blocks of navigation:
 
 **Perception:** the robot must interpret its sensors to extract meaningful data.
 
