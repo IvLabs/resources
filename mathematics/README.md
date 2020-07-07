@@ -29,8 +29,8 @@
 2. [Multi-variable Calculus by Prof. Denis Aurox](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 
 
-### Robotics
+## Robotics
 1. [Math Fundamentals for Robotics by Michael Erdmann](http://www.cs.cmu.edu/~me/811/)
 
-### Machine Learning
+## Machine Learning
 1. [Maths For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
