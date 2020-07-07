@@ -31,18 +31,18 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 3. [Deep Learning - Stanford CS230](https://cs230.stanford.edu/)
 4. [Fast.ai](https://course.fast.ai/)
 
-#### Machine Learning
+### Machine Learning
 
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 2. [Machine Learning - Stanford CS229](http://cs229.stanford.edu/)
 3. [Fast.ai - Machine Learning](http://course18.fast.ai/ml)
 
-#### Vision
+### Vision
 
 1. [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 2. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
-#### Natural Language Processing 
+### Natural Language Processing 
 
 1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
