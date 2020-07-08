@@ -15,8 +15,7 @@
 **NOTE for futher studies:**
 
 - If one's focus is to use deep learning for object detection, segmentation (feature level understanding) etc, then understanding only Image Processing is sufficient. [Digital image processing by Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf) is a standard book to refer.
-- If one's focusing on deep learning for Computer Vision/Perception application then Image Processing and complete course on [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is requisite. Perception includes concepts of 3D perspective, Stereo, Optical flow, object tracking, visual recognition etc which are all very important. In simple words, Image Processing is kinematics and Computer Vision is dynamics. Book on [Computer Vision:
-Algorithms and Applications by Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) is a very good book for reference and focuses more towards mathematical approaches.
+- If one's focusing on deep learning for Computer Vision/Perception application then Image Processing and complete course on [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is requisite. Perception includes concepts of 3D perspective, Stereo, Optical flow, object tracking, visual recognition, etc. which are all very important. In simple words, Image Processing is kinematics and Computer Vision is dynamics. Book on [Computer Vision: Algorithms and Applications by Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) is very good for reference and focuses more on mathematical approaches.
 
 
 ## General Courses
@@ -80,7 +79,7 @@ The fifth course can be a bit heavy if done before implementing a project or two
 
 1. TensorFlow
    - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
-   - [sentdex TensorFlow/Keras playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+   - [Sentdex TensorFlow/Keras playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 2. PyTorch
    - [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
    - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
