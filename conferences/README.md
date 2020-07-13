@@ -2,17 +2,17 @@
 
 ## Robotics
 ### Conferences
-1. [https://www.icra2020.org/](IEEE International Conference on Robotics and Automation (ICRA)): The biggest robotics conference
-2. [https://www.iros2020.org/](International Conference on Intelligent Robots and Systems (IROS)): A close second
-3. [https://roboticsconference.org/](Robotics: Science and Systems (RSS)): Good for more theoretical work
-4. [https://link.springer.com/conference/iser](International Symposium on Experimental Robotics (ISER)): Good for more practical/experimental work
-5. [http://www.isrr2019.org/](International Symposium on Robotics Research (ISRR)): Get direct entry into IJRR!
-6. [https://www.robot-learning.org/](Conference on Robot Learning (CoRL)): This conference focusses on learning-based methods for robots
-7. [https://aamas2020.conference.auckland.ac.nz/](International Conference on Autonomous Agents and Multiagent Systems (AAMAS)): Famous conference for multi-agent systems
+1. (https://www.icra2020.org/)[IEEE International Conference on Robotics and Automation (ICRA)]: The biggest robotics conference
+2. (https://www.iros2020.org/)[International Conference on Intelligent Robots and Systems (IROS)]: A close second
+3. (https://roboticsconference.org/)[Robotics: Science and Systems (RSS)]: Good for more theoretical work
+4. (https://link.springer.com/conference/iser)[International Symposium on Experimental Robotics (ISER)]: Good for more practical/experimental work
+5. (http://www.isrr2019.org/)[International Symposium on Robotics Research (ISRR)]: Get direct entry into IJRR!
+6. (https://www.robot-learning.org/)[Conference on Robot Learning (CoRL)]: This conference focusses on learning-based methods for robots
+7. (https://aamas2020.conference.auckland.ac.nz/)[International Conference on Autonomous Agents and Multiagent Systems (AAMAS)]: Famous conference for multi-agent systems
 
 ### Journals
-1. [https://www.journalfieldrobotics.org/JFR/Home.html](Journal of Field Robotics (JFR)): Highly reputed for more practical work
-2. [https://journals.sagepub.com/home/ijr](The International Journal of Robotics Research (IJRR)): Highly reputed for theoretical robotics research
+1. (https://www.journalfieldrobotics.org/JFR/Home.html)[Journal of Field Robotics (JFR)]: Highly reputed for more practical work
+2. (https://journals.sagepub.com/home/ijr)[The International Journal of Robotics Research (IJRR)]: Highly reputed for theoretical robotics research
 
 ## Machine Learning
 ### Conferences
