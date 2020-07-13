@@ -34,7 +34,7 @@ Please click on following link to see the more info about the specific topic
 To keep yourself updated with the field we highly recommend you listen to Podcasts, read subreddit (eg r/MachineLearning), follow Professors on Twitter, go through proceedings of top conferences. Alongside with doing courses you should also have a good grip with Linux OS and be proficient in programming. Click on following links to see the compilation done by IvLabs members.
 
 * [Conferences](conferences)
-* [Software Skill building](software) 
+* [Software Skill building (Linux and GitHub)](software) 
 * [Talks, Podcasts and Seminars](talks)
 
 NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
@@ -48,7 +48,7 @@ NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
    * Other useful things
 2. All of these should be segregated by sub-topic.
 3. Refer to existing sections before contributing a new one.
-4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](https://github.com/IvLabs/pc_guidelines/tree/master/opensource_git_contrib). All pull requests should be made for `devel` branch only.
+4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](https://github.com/IvLabs/resources/tree/master/software). All pull requests should be made for `devel` branch only.
 5. If you create a new topic folder make sure to **link that folder in landing page `README.md`**
 6. The **name of folder should be consistent with exact format of `word1-word2`**. Some NOT allowed forms are `word1 word2`, `word1word2`, `Word1-word2`, etc. This maintains consistency and proper ordering of folder.
 7. The topic names in [List of Various Fields](#list-of-various-fields) should be in increasing alphabetical order. 
