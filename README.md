@@ -34,7 +34,7 @@ Please click on following link to see the more info about the specific topic
 To keep yourself updated with the field we highly recommend you listen to Podcasts, read subreddit (eg r/MachineLearning), follow Professors on Twitter, go through proceedings of top conferences. Alongside with doing courses you should also have a good grip with Linux OS and be proficient in programming. Click on following links to see the compilation done by IvLabs members.
 
 * [Conferences](conferences)
-* [Software Skill building](software) 
+* [Software Skill building (Linux and GitHub)](software) 
 * [Talks, Podcasts and Seminars](talks)
 
 NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
