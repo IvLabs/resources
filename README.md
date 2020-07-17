@@ -22,7 +22,7 @@ Please click on following link to see the more info about the specific topic
 * [Computer Vision](computer-vision)
 * [Control Theory](control-theory)
 * [Deep Learning](deep-learning)
-* [Embedded](embedded)
+* [Embedded Systems](embedded-systems)
 * [Internet of Things-IoT](iot)
 * [Mathematics](mathematics)
 * [Motion Planning](motion-planning)
