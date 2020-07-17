@@ -9,9 +9,9 @@
 ## Open Source Contributions with Git
 
 ### Making a contribution
-1. Fork the repo which you want to work on (eg. https://github.com/take2rohit/sih_number_plate is original repo where you want to contribute) 
+1. Fork the repo which you want to work on (eg. https://github.com/ivlabs/resources is original repo where you want to contribute) 
 2. Clone the forked repository from your own profile (**NOT** the original repository)
-`git clone https://github.com/your_userid/sih_number_plate`
+`git clone https://github.com/your_userid/resources`
 3. Do the changes and commit.
 `git add file1 file2`
 `git commit -m "Adding my contribution"`
