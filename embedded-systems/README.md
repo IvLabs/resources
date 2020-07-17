@@ -46,7 +46,7 @@ RTOS is one of the fundamental pieces of embedded software. This workshop gives 
 
 * [Kicad Tutorials](https://www.youtube.com/watch?v=vaCVh2SAZY4&list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB)
 **_Why this playlist?:_**
-This tutorial was produced by Digikey on of the leading vendors of electronics components and an active supporter of Kicad. It has great production values and has easy to follow step by step screen captures.
+This tutorial was produced by Digikey, one of the leading vendors of electronics components and an active supporter of Kicad. It has great production values and has easy to follow step by step screen captures.
 **_Estimated Time to complete:_**
 3 hours
 
@@ -58,12 +58,12 @@ This tutorial was produced by Digikey on of the leading vendors of electronics c
 
 ## Forums, Trade Magazines etc
 
-* [EEVBlog](https://www.youtube.com/user/EEVblog): Excellent video blog for Electronics Design. The host Dave Jones covers various electronics topics as well as tears down different devices and explains what's inside.
+* [EEVBlog](https://www.youtube.com/user/EEVblog): Excellent video blog for Electronics Design. The host, Dave Jones, covers various electronics topics as well as tears down different devices and explains what's inside.
 * [Embedded.com](https://www.embedded.com/): The go to trade magazine for embedded systems. Covers everything from current economic trends to new design techniques.
 
 ## Tips
 
 * When learning about embedded systems, try to explore atleast 2-3 controllers.
-* Keep an eye for similarities between different controllers.
-* Search for and read application notes for microcontroller manufacturers and vendors.
+* Keep an eye on similarities between different controllers.
+* Search for and read application notes from microcontroller manufacturers and vendors.
 * Most manufacturers have a wealth of reference projects with schematics and documents on their websites. Take a look at those instead of hobby electronics sites.
