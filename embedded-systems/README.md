@@ -1,4 +1,4 @@
-# Embedded-Systems
+# Embedded Systems
 
 ## Resources
 
