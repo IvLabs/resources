@@ -1,8 +1,8 @@
 # Software 
 
 ## Linux Productivity
-- If you are a beginner then you must go through [Linux Journey](https://linuxjourney.com/) website. It is an intutive website which covers all basic commands.
-- [Great linux productivity tips: "Missing Semester" from MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) is good for people who likes video lecture. After doing this course you will have a good working knowledge about Linux.
+- If you are a beginner then you must go through [Linux Journey](https://linuxjourney.com/) website. It is an intutive website which covers all the basic commands.
+- [Linux productivity tips: "Missing Semester" from MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) is good for people who like video lectures. After doing this course, you will have good working knowledge of Linux.
 - [Org Mode Intro: Execellent note taking tool in emacs](https://www.youtube.com/watch?v=S4f-GUxu3CY&t=121s)
 - [Tiling Window Managers: Tmux for all windows beyond the terminal!](https://www.youtube.com/watch?v=j1I63wGcvU4&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
 
