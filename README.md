@@ -35,7 +35,7 @@ To keep yourself updated with the field we highly recommend you listen to Podcas
 
 * [Conferences](conferences)
 * [Software Skill building (Linux and GitHub)](software) 
-* [Blogs, Podcasts, Readss, Seminars and Talks](reads-talks)
+* [Interesting Reads](reads-talks)
 
 NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 
