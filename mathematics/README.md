@@ -33,7 +33,10 @@
 
 
 ## Robotics
+
+### Courses
 1. [Math Fundamentals for Robotics by Michael Erdmann](http://www.cs.cmu.edu/~me/811/)
+2. [Modern Robotics by Northwestern University](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) also available on [Youtube](https://www.youtube.com/watch?v=9usycd3tnCk&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=2)
 
 ## Machine Learning
 1. [Maths For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)

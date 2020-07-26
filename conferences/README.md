@@ -1,3 +1,6 @@
+# Live Conference Deadline Tracker
+1. [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+
 # Venues to Submit/Follow Research
 
 ## Robotics
@@ -37,6 +40,3 @@
 ### Journals
 1. [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 2. [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
-
-## Live Conference Deadline Tracker
-1. [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
