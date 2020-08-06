@@ -26,6 +26,7 @@ Please click on following link to see the more info about the specific topic
 * [Internet of Things-IoT](iot)
 * [Mathematics](mathematics)
 * [Motion Planning](motion-planning)
+* [Programming Languages](programming-languages)
 * [Quantum Mechanics](quantum-mechanics)
 * [Reinforcement Learning](reinforcement-learning)
 * [State Estimation, Localization and SLAM](state-estimation-localization-slam)
@@ -36,7 +37,7 @@ To keep yourself updated with the field we highly recommend you listen to Podcas
 
 * [Conferences](conferences)
 * [Software Skill building (Linux and GitHub)](software) 
-* [Talks, Podcasts and Seminars](talks)
+* [Interesting Reads and Talks](reads-talks)
 
 NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 
