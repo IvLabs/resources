@@ -14,6 +14,9 @@
 2. [John Tsitsiklis's selected study material from his book](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
 3. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
+## Measure Theory
+1. [MATH 587/589](http://problab.ca/louigi/courses/2020/math589/probnotes.pdf)
+
 ## Linear Algebra
 
 ### Courses
