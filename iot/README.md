@@ -16,3 +16,4 @@ This requires knowledge of embedded linux (on Raspberry Pi, and other SBCs), Pyt
 [IoT For Architects](https://www.amazon.in/Internet-Things-Architects-communication-infrastructure/dp/1788470591)
 
 This book encompasses the entire spectrum of IoT solutions, from sensors to the cloud. it starts by examining modern sensor systems and focus on their power and functionality. After that,  diving deep into communication theory, paying close attention to near-range PAN, including the new Bluetooth 5.0 specification and mesh networks. Then,  IP-based communication in LAN and WAN, including 802.11ah, 5G LTE cellular, SigFox, and LoRaWAN. Next, it covers edge routing and gateways and their role in fog computing, as well as the messaging protocols of MQTT and CoAP.
+
