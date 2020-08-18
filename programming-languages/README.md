@@ -30,9 +30,12 @@
 ## Python
 A high level, interpreted, dead-simple, reads-like-english programming language used for a multitude of tasks, from Machine Learning/Data Analysis to deploying Full-Stack Websites.
 
-### Tutorial
+The [official website](https://www.python.org/) offers further resources.
+
+### Tutorials
 
 * [Sentdex Python Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M): A collection of short videos that deal with everything from installing python, through loops, control flow, functions, upto the package manager pip. Beyond this, the tutorial deals with specific use cases which may be skipped. It is highly recommended that you code along with the videos.
+
 
 ### IDEs
 
@@ -42,3 +45,7 @@ A high level, interpreted, dead-simple, reads-like-english programming language 
 ### Tools
 
 * **Environment/Dependency management**: [Conda](https://docs.conda.io/) or [venv](https://docs.python.org/3/library/venv.html) are typically used to isolate multiple python environments, so you don't end up with conflicting dependencies for different projects. This is highly recommended.
+
+### Notable Libraries:
+* [Numpy](https://numpy.org/): Handles all sorts of Linear Algebra.
+* [Matplotlib](https://matplotlib.org/): Plots and Visualizes all of your data.
