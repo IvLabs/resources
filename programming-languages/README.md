@@ -25,3 +25,20 @@
 
 * [Compiler Explorer](https://godbolt.org/): Online C++ compiler. It lets you compile small code snippets and look at the generated assembly code. It supports different compilers across various architectures ranging from x86 to Arduinos.
 * [JetBrains CLion](https://www.jetbrains.com/clion/): One of the best C++ IDEs. CLion works on CMake making it easy to use with roscpp. 
+
+
+## Python
+A high level, interpreted, dead-simple, reads-like-english programming language used for a multitude of tasks, from Machine Learning/Data Analysis to deploying Full-Stack Websites.
+
+### Tutorial
+
+* [Sentdex Python Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M): A collection of short videos that deal with everything from installing python, through loops, control flow, functions, upto the package manager pip. Beyond this, the tutorial deals with specific use cases which may be skipped. It is highly recommended that you code along with the videos.
+
+### IDEs
+
+* [JetBrains' PyCharm](https://www.jetbrains.com/pycharm/): Fully featured Python IDE, offering powerful autocomplete, virtual environment support, and comprehensive debugging.
+* [Jupyter Notebooks/ JupyterLab](https://jupyter.org/): Code in true interactive fashion, as you execute blocks and see outputs of unfinished code, which will help you code further.
+
+### Tools
+
+* **Environment/Dependency management**: [Conda](https://docs.conda.io/) or [venv](https://docs.python.org/3/library/venv.html) are typically used to isolate multiple python environments, so you don't end up with conflicting dependencies for different projects. This is highly recommended.
