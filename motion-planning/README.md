@@ -35,6 +35,7 @@
 2. [RRT](http://msl.cs.uiuc.edu/rrt/)
 3. [CMU motion planning course homepage](http://www.cs.cmu.edu/~./motionplanning/)
 4. [ROS MoveIt](https://moveit.ros.org/documentation/planners/)
+5. [BehaviorTree.CPP](https://www.behaviortree.dev/)
 
 
 ## Important publications and research groups
