@@ -30,22 +30,23 @@
 ## Python
 A high level, interpreted, dead-simple, reads-like-english programming language used for a multitude of tasks, from Machine Learning/Data Analysis to deploying Full-Stack Websites.
 
-The [official website](https://www.python.org/) offers further resources.
+The [official website](https://www.python.org/) offers further resources, including talks, podcasts, conferences and the like.
 
 ### Tutorials
 
-* [Sentdex Python Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M): A collection of short videos that deal with everything from installing python, through loops, control flow, functions, upto the package manager pip. Beyond this, the tutorial deals with specific use cases which may be skipped. It is highly recommended that you code along with the videos.
+* [Sentdex Python Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M): A collection of short videos that deal with everything from installing python, through loops, control flow, functions, upto usage of the package manager pip. Beyond this, the tutorial deals with specific use cases which may be skipped. It is highly recommended that you code along with the videos.
 
 
 ### IDEs
 
-* [JetBrains' PyCharm](https://www.jetbrains.com/pycharm/): Fully featured Python IDE, offering powerful autocomplete, virtual environment support, and comprehensive debugging.
-* [Jupyter Notebooks/ JupyterLab](https://jupyter.org/): Code in true interactive fashion, as you execute blocks and see outputs of unfinished code, which will help you code further.
+* [JetBrains' PyCharm](https://www.jetbrains.com/pycharm/): Fully featured Python IDE, offering powerful autocomplete, virtual environment support, comprehensive debugging, and notebook support. Users of other JetBrains IDEs will feel right at home.
+* [Jupyter Notebooks/ JupyterLab](https://jupyter.org/): Code in true interactive fashion, as you execute blocks and see outputs of unfinished code, which will help you code further. Runs in a browser, and a pip install is all that is required to get it.
+* [vscode](https://code.visualstudio.com/): A lightweight, extensible IDE with support for python autocomplete, error-checking and notebooks. Great for existing vscode users to dive right in and start exploring python.
 
 ### Tools
 
-* **Environment/Dependency management**: [Conda](https://docs.conda.io/) or [venv](https://docs.python.org/3/library/venv.html) are typically used to isolate multiple python environments, so you don't end up with conflicting dependencies for different projects. This is highly recommended.
+* **Environment/Dependency management**: [Conda](https://docs.conda.io/) or [venv](https://docs.python.org/3/library/venv.html) are typically used to isolate multiple python environments, so you don't end up with conflicting dependencies for different projects. This is highly recommended. It may seem like an inconvinience at first, but will save you a lot of time later on.
 
 ### Notable Libraries:
-* [Numpy](https://numpy.org/): Handles all sorts of Linear Algebra.
+* [Numpy](https://numpy.org/): Handles all sorts of Linear Algebra, and it's data-types are used in most other mathematical libraries.
 * [Matplotlib](https://matplotlib.org/): Plots and Visualizes all of your data.
