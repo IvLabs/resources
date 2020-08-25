@@ -4,7 +4,7 @@
 
 ### Tutorials
 
-* [C++ Tutorials - Tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)**_Why this Tutorial?:_** Live Online Coding !!!
+* [C++ Tutorials - Tutorialspoint ](https://www.tutorialspoint.com/cplusplus/index.htm)**_Why this Tutorial?:_** Live Online Coding !!!
 **_What to keep in mind?:_** This tutorial only helps you understand the syntax of C++. To effective, one must follow this tutorial up with sources. 
 
 ### Books and Reference Material
@@ -41,7 +41,7 @@ The [official website](https://www.python.org/) offers further resources, includ
 
 * [JetBrains' PyCharm](https://www.jetbrains.com/pycharm/): Fully featured Python IDE, offering powerful autocomplete, virtual environment support, comprehensive debugging, and notebook support. Users of other JetBrains IDEs will feel right at home.
 * [Jupyter Notebooks/ JupyterLab](https://jupyter.org/): Code in true interactive fashion, as you execute blocks and see outputs of unfinished code, which will help you code further. Runs in a browser, and a pip install is all that is required to get it.
-* [vscode](https://code.visualstudio.com/): A lightweight, extensible IDE with support for python autocomplete, error-checking and notebooks. Great for existing vscode users to dive right in and start exploring python.
+* [vscode](https://code.visualstudio.com/): A lightweight, extensible IDE with support for autocomplete, error-checking,git, ssh support and ipynb notebooks. It has a very powerful debugger and a long list of useful extensions/plugins. This is the favourite IDE of most of the developers and data scientists. 
 
 ### Tools
 
