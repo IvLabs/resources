@@ -15,12 +15,8 @@
 2. [John Tsitsiklis's selected study material from his book](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
 3. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-
-### Books
-
-1. [Grimmett and Stirzaker](http://home.ustc.edu.cn/~zt001062/PTmaterials/Grimmett&Stirzaker--Probability%20and%20Random%20Processes%20%20Third%20Ed(2001).pdf)
-2. [John Tsitsiklis's selected study material from his book](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
-3. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+### Notes
+1. [Probability theory, stochastic processes and mathematical statistics notes by Gordan Zitkovic](https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
 
 ## Measure Theory
 1. [MATH 587/589](http://problab.ca/louigi/courses/2020/math589/probnotes.pdf)

@@ -2,6 +2,7 @@
 # Resources and Roadmaps for AI and Robotics 
 ![http://ivlabs.in/](ivlabs-black.png)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/IvLabs/resources/graphs/contributors) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/IvLabs/resources/blob/master/LICENSE.md) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/resources?style=social)](https://github.com/IvLabs/resources/stargazers)
+[![HitCount](http://hits.dwyl.com/IvLabs/resources.svg)](http://hits.dwyl.com/IvLabs/resources)
 
 Initiative by [IvLabs](http://www.ivlabs.in/) to share field-wise learning resources.
 Here you will find all the courses and online materials which are being followed by IvLabs members. These resources have been carefully handpicked to provide the best knowledge. If you like the repo, please star. This motivates us to update the repo frequently.
