@@ -20,6 +20,9 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 ### Specialised Courses
 
 1. [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+2. [Trust Policy Optimisation series](http://www.depthfirstlearning.com/2018/TRPO)
+
+
 
 
 ## Books
@@ -27,6 +30,8 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 1. [Reinforcement Learning: An Introduction, Sutton and Barto, 2nd Edition](http://incompleteideas.net/book/the-book-2nd.html)
 2. [Markov Decision Processes: Discrete Stochastic Dynamic Programming by Martin Puterman](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 3. [Reinforcement Learning and Optimal Control by Dimitri Bertsekas](https://web.mit.edu/dimitrib/www/RLbook.html)
+4. [Grokking Deep Reinforcement Learining](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+
 
 
 ## Clean Implementations

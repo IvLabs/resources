@@ -6,11 +6,21 @@
 
 1. [Prof. Krishna Jagannathan's NPTEL course](https://nptel.ac.in/courses/108106083/)  
 2. [Prof. John Tsitsiklis' MIT OCW Probablistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
+3. [Convex Optimization by Stephen P. Boyd](https://see.stanford.edu/Course/EE364A)
+
 
 ### Books
 
 1. [Grimmett and Stirzaker](http://home.ustc.edu.cn/~zt001062/PTmaterials/Grimmett&Stirzaker--Probability%20and%20Random%20Processes%20%20Third%20Ed(2001).pdf)
 2. [John Tsitsiklis's selected study material from his book](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
+3. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+### Notes
+1. [Probability theory, stochastic processes and mathematical statistics notes by Gordan Zitkovic](https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
+
+## Measure Theory
+1. [MATH 587/589](http://problab.ca/louigi/courses/2020/math589/probnotes.pdf)
+
 
 ## Linear Algebra
 
@@ -31,7 +41,10 @@
 
 
 ## Robotics
+
+### Courses
 1. [Math Fundamentals for Robotics by Michael Erdmann](http://www.cs.cmu.edu/~me/811/)
+2. [Modern Robotics by Northwestern University](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) also available on [Youtube](https://www.youtube.com/watch?v=9usycd3tnCk&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&index=2)
 
 ## Machine Learning
 1. [Maths For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
