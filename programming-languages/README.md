@@ -48,7 +48,7 @@ The [official website](https://www.python.org/) offers further resources, includ
 
 ### Tools
 
-* **Environment/Dependency management**: [Conda](https://docs.conda.io/) or [venv](https://docs.python.org/3/library/venv.html) are typically used to isolate multiple python environments, so you don't end up with conflicting dependencies for different projects. This is highly recommended. It may seem like an inconvinience at first, but will save you a lot of time later on.
+* **Environment/Dependency management**: [Conda](https://docs.conda.io/) or [venv](https://docs.python.org/3/library/venv.html) are typically used to isolate multiple python environments, so you don't end up with conflicting dependencies for different projects. This is highly recommended. It may seem like an inconvinience at first, but will save you a lot of time later on. Conda is recommended for ML/DL related work, because this can handler CUDA and CUDNN within the Virtual Environment, and a system-wide install is not required. Conda environments take up much more space than their venv counterparts.
 
 ### Notable Libraries:
 * [NumPy](https://numpy.org/): Handles all sorts of Linear Algebra, and it's data-types are used in most other mathematical libraries.
