@@ -37,8 +37,8 @@ This is an advanced subject and is a rather mystic and unexplored(relatively) fi
 This course is quite fast and requires a strikingly good hold over the above mentioned pre-requisites. The concepts too, are not given much physical emphasis at times and that can not really be blamed on the course but rather, is an obvious consequence of the nature of the subject. The book by Dr. Greiner is a gentle and friendlier resource.
 
 ### Book(s)
-* [Relativistic Quantum Mechanics by Dr. Walter Greiner](books/Relativistic%20Quantum%20Mechanics%20by%20Dr.%20Walter%20Greiner)
-* [Relativistic Quantum Fields by James D. Bjorken, Sidney D. Drell](books/Relativistic%20Quantum%20Fields%20by%20James%20D.%20Bjorken,%20Sidney%20D.%20Drell)*
+* [Relativistic Quantum Mechanics by Dr. Walter Greiner](books/Relativistic%20Quantum%20Mechanics%20by%20Dr.%20Walter%20Greiner.pdf)
+* [Relativistic Quantum Fields by James D. Bjorken, Sidney D. Drell](books/Relativistic%20Quantum%20Fields%20by%20James%20D.%20Bjorken,%20Sidney%20D.%20Drell.pdf)*
 
 
 \**The resource is a bit advanced or varies in perspective with regards to other resources*
