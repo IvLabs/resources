@@ -1,12 +1,12 @@
 # Physics
-This discipline of science is quite different and even nascent with regards to the lab. However, we are open to contributions and collaborations.
+This discipline of science is quite different and even nascent with regards to IvLabs. However, we are open to contributions and collaborations.
 
 ## Special Relativity
 The below mentioned resources help one understand the special theory of relativity, from scratch and do not really require any pre-requisites.
 
 ### Course(s)
-#### [Advance Course on STR by Dr. H. C. Verma](https://www.youtube.com/playlist?list=PL8g67naApM8i21RucyrHYqyVwmurwA1UC)
-Unlike what the the name suggests, the course is a rather gentle and basic introduction to the theory of special relativity. The simplicity of the course is mainly due to the face that, the special theory of relativity itself, is a simple yet elegant theory.
+#### [Advance Course on Special Theory of Relativity by Dr. H. C. Verma](https://www.youtube.com/playlist?list=PL8g67naApM8i21RucyrHYqyVwmurwA1UC)
+Unlike what the the name suggests, the course is a rather gentle and basic introduction to the theory of special relativity. The simplicity of the course is mainly due to the fact that, the special theory of relativity itself, is a simple yet elegant theory.
 
 ### Book(s)
 * [A Primer of Special Relativity by P. L. Sardesai](books/A%20Primer%20of%20Special%20Relativity.pdf)
@@ -34,7 +34,7 @@ This is an advanced subject and is a rather mystic and unexplored(relatively) fi
 
 ### Course(s)
 [Relativistic Quantum Mechanics by Dr. Apoorva D Patel](https://www.youtube.com/playlist?list=PLbMVogVj5nJTDMhThY9xu2Tvg0u1RPuxO)
-This course is quite fast and requires a strikingly good hold over the above mentioned pre-requisites. The concepts too, are not given much physical emphasis at times and that can not really be blamed on the course but rather, is an obvious consequence of the nature of the subject. The book by Dr. Greiner is a gentle and friendlier resource.
+This course is quite fast and requires a strikingly good hold over the above mentioned pre-requisites. The concepts too, are not given much physical emphasis at times and that cannot really be blamed on the course but rather, is an obvious consequence of the nature of the subject. The book by Dr. Greiner is a gentle and friendlier resource.
 
 ### Book(s)
 * [Relativistic Quantum Mechanics by Dr. Walter Greiner](books/Relativistic%20Quantum%20Mechanics%20by%20Dr.%20Walter%20Greiner.pdf)
