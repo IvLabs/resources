@@ -27,8 +27,8 @@ Please click on following link to see the more info about the specific topic
 * [Internet of Things-IoT](iot)
 * [Mathematics](mathematics)
 * [Motion Planning](motion-planning)
+* [Physics](physics)
 * [Programming Languages](programming-languages)
-* [Quantum Mechanics](quantum-mechanics)
 * [Reinforcement Learning](reinforcement-learning)
 * [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 
@@ -55,3 +55,7 @@ NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 5. If you create a new topic folder make sure to **link that folder in landing page `README.md`**
 6. The **name of folder should be consistent with exact format of `word1-word2`**. Some NOT allowed forms are `word1 word2`, `word1word2`, `Word1-word2`, etc. This maintains consistency and proper ordering of folder.
 7. The topic names in [List of Various Fields](#list-of-various-fields) should be in increasing alphabetical order. 
+
+## Contributors
+
+[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/0)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/0)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/1)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/1)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/2)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/2)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/3)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/3)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/4)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/4)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/5)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/5)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/6)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/6)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/7)](http://www.ivlabs.in/)

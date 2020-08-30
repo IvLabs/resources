@@ -46,7 +46,6 @@ This is an advanced course based on Simultaneous Localization and Mapping. It co
 Visual SLAM. In the second part of the course some fundamental concepts of Point Clouds are addressed. Other topics include System Calibration,
 Sensor Synchronization and SfM application. 
 
-
 ## Books and research papers for Reference
 
 * [Optimal State Estimation: Kalman, H∞, and Nonlinear Approaches](https://onlinelibrary.wiley.com/doi/book/10.1002/0470045345) by Dan Simon.
