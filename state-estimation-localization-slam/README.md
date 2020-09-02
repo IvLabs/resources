@@ -43,9 +43,7 @@ In these courses you will learn about the basic concepts of different types of m
 
 * [Mobile Sensing and Robotics II](https://www.ipb.uni-bonn.de/msr2-2020/) by Cyrill Stachniss.
 This is an advanced course based on Simultaneous Localization and Mapping. It covers the concepts of graph based SLAM algorithms as well as 
-Visual SLAM. In the second part of the course some fundamental concepts of Point Clouds are addressed. Other topics include System Calibration,
-System Calibration and SfM application. 
-
+Visual SLAM. In the second part of the course some fundamental concepts of Point Clouds are addressed. Other topics include System Calibration, Sensor Synchronization and SfM application. 
 
 ## Books and research papers for Reference
 
