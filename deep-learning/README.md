@@ -44,7 +44,7 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 
 1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
-
+3. [Natural Language Processing by National Research University, Russia](https://www.coursera.org/learn/language-processing)
 
 ## Course Reviews
 
@@ -62,6 +62,8 @@ A healthy approach, containing a good mix of results and fairly decent understan
 
 The fifth course can be a bit heavy if done before implementing a project or two using Image Processing and Deep Learning even though it deals with a very different paradigm. The third course, however, holds little potential with respect to research-oriented learning
 
+### [Natural Language Processing by National Research University, Russia](https://www.coursera.org/learn/language-processing)
+This course aims to teach you Natural Language Processing from the ground up, starting from dated statistical methods, and covering everything upto the latest Deep Learning based techniques. The quizzes test mathematical and theoritical knowledge, and the programming assignments make you build stuff. These result in a good blend of theory and practice, which can help if you're the kind that gets bored of just studying and not doing. The final project is enticing and will require you to deploy a telegram chatbot on an AWS machine, which gives you real world experience of how these systems run in production.
 
 ## Books
 
