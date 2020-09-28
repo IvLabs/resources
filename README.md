@@ -27,6 +27,7 @@ Please click on following link to see the more info about the specific topic
 * [Internet of Things-IoT](iot)
 * [Mathematics](mathematics)
 * [Motion Planning](motion-planning)
+* [Natural Language Processing](natural-language-processing)
 * [Physics](physics)
 * [Programming Languages](programming-languages)
 * [Reinforcement Learning](reinforcement-learning)
