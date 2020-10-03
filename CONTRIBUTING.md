@@ -1,5 +1,5 @@
 ## Guidelines for contributing
-
+**All pull requests should be made for `devel` branch only.**
 1. You are encouraged to add links to the following: 
    - Online courses
    - Books
