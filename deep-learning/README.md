@@ -45,7 +45,6 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 
 1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
-3. [Natural Language Processing by Andrew Ng](https://www.coursera.org/specializations/natural-language-processing?)
 
 
 ## Course Reviews
