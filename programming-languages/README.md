@@ -27,6 +27,7 @@ The [official website](https://www.python.org/) offers further resources, includ
 * [NumPy](https://numpy.org/): Handles all sorts of Linear Algebra, and it's data-types are used in most other mathematical libraries.
 * [Matplotlib](https://matplotlib.org/): Plots and Visualizes all of your data.
 * [Pandas](https://pandas.pydata.org/): Can be used for handling data files such as .csv, .xlsx. Has deep integration with NumPy and Matplotlib.
+
 ### Inbuilt Libraries
 It is highly recommended to take the time and get familiar with the standard library (of sorts) of Python. The included tools like itertools, collections, and others. They provide implementations of all sorts of cumbersome things, like sorting, min/max, list comprehension and others, as functions. These will help you write code in true Python fashion, abstracting out everything but your main business logic. 
 **Before writing cumbersome/boilerplate code, Google.**
@@ -56,3 +57,33 @@ It is highly recommended to take the time and get familiar with the standard lib
 
 * [Compiler Explorer](https://godbolt.org/): Online C++ compiler. It lets you compile small code snippets and look at the generated assembly code. It supports different compilers across various architectures ranging from x86 to Arduinos.
 * [JetBrains CLion](https://www.jetbrains.com/clion/): One of the best C++ IDEs. CLion works on CMake making it easy to use with roscpp. 
+
+
+## Java
+
+Java is a powerful programming language that has greatly impacted the development world and is used in all types of technologies. Java can be used to make apps for the web and mobile!
+
+Check out the [official website](https://www.java.com/en/) to find out more!
+
+### Tutorials
+
+* [w3schools](https://www.w3schools.com/java/default.asp): w3schools is a really great resource to learn any part of web development. In this tutorial, you will learn the basics of Java, important programming concepts such as methods and classes, and real life projects you can make yourself!
+
+* [Java Code Academy Course](https://www.codecademy.com/learn/learn-java): Learn Java in this hands on course. In this course, you'll learn important Java concepts such as variables, arrays, strings, and more! By the end of the course, you will have made 6 projects to showcase your new skills!
+
+### Books and Reference Material
+
+* [Java in Easy Steps](https://www.amazon.com/Java-easy-steps-Covers/dp/1840786213): Easy to follow book that explains the basics of Java with fun and interesting graphics.
+
+* [Head First Java](https://www.amazon.com/dp/0596009208/?tag=javamysqlanta-20): Classic book covering Java that is essental for any beginner programmer.
+
+### Channels
+
+* [TheNewBoston Youtube Channel](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw): This youtube channel is jam packed with tons of resources on learning Java. Are you a beginner? Start with the "Java (Beginner) Tutorial" playlist. When you feel you are ready, move onto to the "Java (Intermediate) Tutorial" playlist to learn some more advanced topics!
+
+* [Derek Banas]()https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw): Channel with crash course videos teaching you the basic of every programming language!
+
+### IDEs
+
+* [Eclipse](https://www.eclipse.org/downloads/): One of the most well known IDEs for Java. 
+* [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/): A powerful IDE with an extensive library of features. You can get it for free for non-commercial projects as a student!
