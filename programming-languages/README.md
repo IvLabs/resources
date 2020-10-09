@@ -1,5 +1,28 @@
 # Programming Languages
 
+##### Table of Contents  
+
+[Python](#python)
+  * [Tutorials](#tutorials)
+  * [IDES](#ides)
+  * [Tools](#tools)
+  * [Notable Libraries](#notable-libraries-)
+  * [Inbuilt Libraries](#inbuilt-libraries)
+  
+ [C++](#c--)
+  * [Tutorials](##utorials-1)
+  * [Books and Reference Material](#books-and-reference-material)
+  * [Tools](#tools)
+  * [Channels](#channels)
+  * [Tools](#tools-1)
+
+  [Java](#java)
+  * [Tutorials](##utorials-2)
+  * [Books and Reference Material](#books-and-reference-material-1)
+  * [Channels](#channels-1)
+  * [IDEs](#ides-1)
+
+
 ## Python
 A high level, interpreted, dead-simple, reads-like-english programming language used for a multitude of tasks, from Machine Learning/Data Analysis to deploying Full-Stack Websites.
 
