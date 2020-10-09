@@ -13,7 +13,8 @@ This is one of the most rigorous courses on NLP and it starts from the very basi
 This course aims to teach you Natural Language Processing from the ground up, starting from dated statistical methods, and covering everything upto the latest Deep Learning based techniques. The quizzes test mathematical and theoritical knowledge, and the programming assignments make you build stuff. These result in a good blend of theory and practice, which can help if you're the kind that gets bored of just studying and not doing. The final project is enticing and will require you to deploy a telegram chatbot on an AWS machine, which gives you real world experience of how these systems run in production.
 
 ## More Courses
-1. [Natural Language Processing by Andrew Ng](https://www.coursera.org/specializations/natural-language-processing?)
+1. [Natural Language Processing Specialization by Coursera](https://www.coursera.org/specializations/natural-language-processing?)
+3. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 ## Tutorials/Implementations
 1. [IvLabs' Natural Language Processing Repository](https://github.com/IvLabs/Natural-Language-Processing)
