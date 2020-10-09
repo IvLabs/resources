@@ -104,7 +104,7 @@ Check out the [official website](https://www.java.com/en/) to find out more!
 
 * [TheNewBoston Youtube Channel](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw): This youtube channel is jam packed with tons of resources on learning Java. Are you a beginner? Start with the "Java (Beginner) Tutorial" playlist. When you feel you are ready, move onto to the "Java (Intermediate) Tutorial" playlist to learn some more advanced topics!
 
-* [Derek Banas]()https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw): Channel with crash course videos teaching you the basic of every programming language!
+* [Derek Banas](https://youtu.be/n-xAqcBCws4): Channel with crash course videos teaching you the basics of every programming language!
 
 ### IDEs
 
