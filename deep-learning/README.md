@@ -16,6 +16,7 @@
 
 - If one's focus is to use deep learning for object detection, segmentation (feature level understanding) etc, then understanding only Image Processing is sufficient. [Digital image processing by Rafael C. Gonzalez](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/Digital_Image_Processing_2ndEd.pdf) is a standard book to refer.
 - If one's focusing on deep learning for Computer Vision/Perception application then Image Processing and complete course on [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) is requisite. Perception includes concepts of 3D perspective, Stereo, Optical flow, object tracking, visual recognition, etc. which are all very important. In simple words, Image Processing is kinematics and Computer Vision is dynamics. Book on [Computer Vision: Algorithms and Applications by Richard Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) is very good for reference and focuses more on mathematical approaches.
+- If one's focus goes further on Visual Recognition in the direction of Image-to-Image Translation or Image Synthesis, one can learn about Generative Adversarial Networks which use networks to learn Computer Vision in order to generate new images. The course on [Generative Adversarial Networks by Andrew Ng](https://www.coursera.org/specializations/generative-adversarial-networks-gans) requires basic knowledge and skills of Deep Learning with PyTorch.
 
 
 ## General Courses
@@ -39,12 +40,6 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 
 1. [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 2. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-
-### Natural Language Processing 
-
-1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-2. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
-
 
 ## Course Reviews
 
