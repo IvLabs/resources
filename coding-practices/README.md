@@ -4,24 +4,23 @@ Some useful websites for programmers.
 
 Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as we can get another link :wink:
 
-## Index
-<ul>
-<li><a href=#coding-practice-for-beginners>Coding practice for beginners</li>
-<li><a href=#general-tools-and-online-compiler>General Tools and Online Compiler</li>
-<li><a href=#programming-languages-sites>Programming Languages sites</li>
-<li><a href=#youtube-channels>YouTube Channels</li>
-<li><a href=#tutorials>Tutorials</li>
-<li><a href=#books>Books</li>
-<li><a href=#competitive-programming>Competitive programming</li>
-<li><a href="#open-source-websites">Open Source Websites</a></li>
-<li><a href="#articles">Articles</a></li>
-<li><a href="#developer-blogs">Developer Blogs</a></li>
-<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#coding-style">Coding Style</a></li>
-<li><a href="#watch-others-code">Watch others code</a></li>
-<li><a href="#general-coding-advice">General Coding advice</a></li>
-</ul>
 
+
+## Index
+- [Coding practice for beginners](#coding-practice-for-beginners)
+- [General Tools and Online Compiler](#general-tools-and-online-compiler)
+- [Programming Languages sites](#programming-languages-sites)
+- [YouTube Channels](#youtube-channels)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Competitive programming](#competitive-programming)
+- [Open Source Websites](#open-source-websites)
+- [Articles](#articles)
+- [Developer Blogs](#developer-blogs)
+- [MOOCs for learning something new](#moocs-for-learning-something-new)
+- [Coding Style](#coding-style)
+- [Watch others code](#watch-others-code)
+- [General Coding advice](#general-coding-advice)
 
 ## Coding practice for beginners
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
