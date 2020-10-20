@@ -1,5 +1,14 @@
 There is not a perfect time to start competitive coding, but if anyone wants to start it here is a roadmap for you
 
+## Table of content
+- [Roadmap to start Competetive Coding](#roadmap-to-start-competetive-coding)
+- [Common mistakes and misconceptions during competitive coding](#common-mistakes-and-misconceptions-during-competitive-coding)
+- [Top Programming Languages](#top-programming-languages)
+- [Tutorials](#tutorials)
+- [Video Tutorials](#video-tutorials)
+- [Online Practice Platforms](#online-practice-platforms)
+- [Books to Refer](#books-to-refer)
+
 ## Roadmap to start Competetive Coding
 - Start with learning any programming language like C, C++, Java, Python are some popular programming languages use by all the coders around the globe. Try to start with C then move onto some other programming language if you wish (I prefer C++ after C). Refer to the [Books](#books-to-refer) and [Tutorials](#tutorials) section to start with any language you wish.
 - After learning any programming language, the next thing which comes to is practice. You have to practice to write code until you are able to code any problem given to you. There are many online platforms like [HackerEarth](https://www.hackerearth.com/), [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://leetcode.com/), etc, which provide various questions on every programming language to practice (I prefer to start the language proficiency section at [Hackerrank](https://www.hackerrank.com/) Platform, where you can practice question on any language).
@@ -14,8 +23,6 @@ There is not a perfect time to start competitive coding, but if anyone wants to 
 - After starting with competitive programming, most of the coders stop learning and practicing new questions. This is wrong because your practice will never be sufficient, every question faced by will be different from previous ones.
 - At the early stage of programming most of us don't make notes thinking everything is available online and you can refer to them at any time. But this is not true, because every question you will face is gonna solve with different approaches and it is better to write those approaches in your notebook, it helps to analyze many methods to solve particular types of questions.
 
-
-
 ## Top Programming Languages
 - C/C++
 - Java
@@ -27,7 +34,7 @@ There is not a perfect time to start competitive coding, but if anyone wants to 
 - R
 - Ruby
 
-## Tutorials:
+## Tutorials
 - [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
 - [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
@@ -87,7 +94,7 @@ There is not a perfect time to start competitive coding, but if anyone wants to 
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register): Practice coding, Compete, and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org): hundreds of problems supporting multiple languages.
 
-## Books to Refer:
+## Books to Refer
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html): This site contains the most popular exhaustive list of programming books from Zed A. Shaw.
 - [Goal Kicker](https://goalkicker.com): Programming Notes for Professionals books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md): More than 500 free ebooks on almost any language you can think of.
