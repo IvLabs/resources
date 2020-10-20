@@ -1,5 +1,3 @@
-There is not a perfect time to start competitive coding, but if anyone wants to start it here is a roadmap for you
-
 ## Table of content
 - [Roadmap to start Competetive Coding](#roadmap-to-start-competetive-coding)
 - [Common mistakes and misconceptions during competitive coding](#common-mistakes-and-misconceptions-during-competitive-coding)
@@ -10,6 +8,7 @@ There is not a perfect time to start competitive coding, but if anyone wants to 
 - [Books to Refer](#books-to-refer)
 
 ## Roadmap to start Competetive Coding
+There is no perfect time to start competitive coding, but if anyone wants to start it, here is a roadmap for you
 - Start with learning any programming language like C, C++, Java, Python are some popular programming languages use by all the coders around the globe. Try to start with C then move onto some other programming language if you wish (I prefer C++ after C). Refer to the [Books](#books-to-refer) and [Tutorials](#tutorials) section to start with any language you wish.
 - After learning any programming language, the next thing which comes to is practice. You have to practice to write code until you are able to code any problem given to you. There are many online platforms like [HackerEarth](https://www.hackerearth.com/), [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://leetcode.com/), etc, which provide various questions on every programming language to practice (I prefer to start the language proficiency section at [Hackerrank](https://www.hackerrank.com/) Platform, where you can practice question on any language).
 - After doing a sufficient amount of practice you can move on to the next step, i.e., learning Data Structure and Algorithms. You have to practice them regularly i.e. at least 5 questions a day, which can be done on any platform mentioned in the [Online Platforms](#online-practice-platforms) section (I prefer the site [GeeksforGeeks](https://www.geeksforgeeks.org/) for learning and practice).
