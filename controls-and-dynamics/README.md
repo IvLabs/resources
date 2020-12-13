@@ -1,8 +1,17 @@
+# Robot kinematics and dynamics
+
+#### Courses
+* [Introduction to Robotics by Oussama Khatib](https://see.stanford.edu/Course/CS223A): robotics foundations in kinematics, dynamics and control
+  + The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems
+  + In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control
+
+#### Books for reference
+* [A Mathematical Introduction to Robotic Manipulation - Richard M. Murray, CalTech](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
+* [Robot Dynamics Lecture Notes - Robotic Systems Lab, ETH Zurich](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
+* [Nonlinear dynamics and Chaos by Steven Strogatz](https://g.co/kgs/6azKcp): This is a gem of a book. Not focused on robotic systems but the underlying concepts are universal
+
 # Control Theory
-
-## Resources
-
-### Classical Control
+## Classical Control
 
 * [Classical Control Theory](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) by Brian Douglas.
   **_Why this lecture series? :_**
@@ -20,11 +29,22 @@ For beginners, It is recommended to first go through Brian Douglas (till video 2
 **_What's good about this course ?:_** It is fairly different from the general long lectured continuous courses, it maintains a very good balance between theory and its implementation. The concepts are explained excellently using some elegant analogies.
 **_Course info:_** Course focuses on the problem of establishing control over a robot with the pursuit of making it move safely and optimally. The course covers the classic PID control and its applications in controlling a differential drive robot and then moves on to cover few concepts from the Classical Control Theory which helps span principles and fundamentals applicable for control of almost all types of dynamical systems.
 
-#### Graduate level
+## Advanced
+**Note: the focus of these courses is on math and algorithms. You will not study mechanical or electrical design of robots**
 
-* [Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2020/) by Dr. Russ Tedrake.
-**_Course info:_** Take a few examples like trajectories of a quadrotor being generated to play a game of pong, Or maybe a humanoid performing a backflip, Or for a simple case make an Acrobot stay upright. In all these cases we can observe that the control algorithms are exploiting the dynamics to perform a task no matter how bizarre it is. Well, this course will help you exploit those dynamics of any given system to perform tasks that may seem impossible from the classical control theory point of view. The course covers techniques like Dynamic Programming, LQR, Lyapunov Analysis, Trajectory Optimization, Model Predictive Control, Motion Planning as Search, Pixels to Torques, Robust and Stochastic Control to State Estimation, Reinforcement Learning and few other techniques
-
+* Underactuated Robotics by Russ Tedrake [[textbook](http://underactuated.csail.mit.edu/)] [[videos](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/playlists)]: Algorithms for Walking, Running, Swimming, Flying, and Manipulation 
+  + This course introduces nonlinear dynamics and control of underactuated mechanical systems, with an emphasis on computational methods 
+  + Topics include the nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning 
+  + Discussions include examples from biology and applications to legged locomotion, compliant manipulation, underwater robots, and flying machines
+  + Main topics covered Dynamic Programming, LQR, Lyapunov Analysis, Trajectory Optimization, Model Predictive Control, Motion Planning as Search, Pixels to Torques, Robust and Stochastic Control to State Estimation, Reinforcement Learning and few other
+* [Advanced Robotics by Peiter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/): (optional, only for more conceptual understanding and depth) 
+  + Learn the math and algorithms underneath state-of-the-art robotic systems
+    - The majority of these techniques are heavily based on optimization and probabilistic reasoning --- both areas with wide applicability in modern Artificial Intelligence. 
+    - An intended side-effect of the course is to generally strengthen your expertise in these areas
+  + Be able to understand research papers in the field of robotics:
+    - Main conferences: ICRA, IROS, RSS, CoRL, ISER, ISRR
+    - Main journals: IJRR, T-RO, Autonomous Robots
+  + Main topics covered: MDPs, Discretization of Continuous State Space MDPs, Function Approximation / Feature-based Representations, LQR, iterative LQR / Differential Dynamic Programming, Unconstrained Optimization, Constrained Optimization, Optimization-based Control: Collocation, Shooting, MPC, Contact-Invariant Optimization, Motion Planning: RRT, PRM, Trajopt, 3-d poses, Probability Review, Bayes Filters, Multivariate Gaussians, Kalman Filtering, EKF, UKF, Smoother, MAP, Maximum Likelihood, EM, KF parameter estimation, Particle Filters, POMDPs, Imitation Learning, Policy Gradients, Off-policy RL, Model-based RL, Physics simulators working, Sim2Real and few other
 
 ## Specific Control Methods
 
