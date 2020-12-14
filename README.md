@@ -49,10 +49,11 @@ NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 ## Guidelines for contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Contributions will not be accepted if they dont follow these guidelines
 
+<!-- 
 ## Contributors
 
 [![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/0)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/0)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/1)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/1)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/2)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/2)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/3)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/3)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/4)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/4)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/5)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/5)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/6)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/links/6)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/resources/images/7)](http://www.ivlabs.in/)
-
+-->
 
 ## Maintainers
 - [Rohit Lal](http://take2rohit.github.io/) 
