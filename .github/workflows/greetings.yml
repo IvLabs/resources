@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hey! Thanks for creating this issue. Please wait while the people of IvLabs review your issue. Incase there is no response for one week then please add a comment in the same issue.'
+        pr-message: 'Hey! Thanks for your contribution. Please wait while the people of IvLabs review your PR. Incase there is no response for one week then please add a comment in the same PR.'
