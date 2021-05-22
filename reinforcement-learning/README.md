@@ -17,6 +17,9 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 2. [Deep Reinforcement Learning - UC Berkeley CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/)
 3. [Spinning up Deep RL - OpenAI](https://spinningup.openai.com/en/latest/)
 
+### Imitation Learning
+1. [Imitation Learning for Robotics](http://www.cs.toronto.edu/~florian/courses/imitation_learning/)
+
 ### Specialised Courses
 
 1. [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
