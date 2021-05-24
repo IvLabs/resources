@@ -22,7 +22,7 @@ Here you will find all the courses and online materials which are being followed
 Please click on following link to see the more info about the specific topic
 
 - [Computer Vision](computer-vision)
-- [Control Theory](control-theory)
+- [Control Theory](controls-and-dynamics)
 - [Deep Learning](deep-learning)
 - [Embedded Systems](embedded-systems)
 - [Internet of Things-IoT](iot)
