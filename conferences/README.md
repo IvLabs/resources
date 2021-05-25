@@ -35,7 +35,7 @@
 1. [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](http://cvpr2020.thecvf.com/): Highest-rated conference among all engineering disciplines
 2. [European Conference on Computer Vision (ECCV) (even year)](https://eccv2020.eu/) / [IEEE/CVF International Conference on Computer Vision (ICCV) (odd year)](http://iccv2021.thecvf.com/home): Good for theoretical as well as application-based research in Computer Vision and Pattern Recognition
 3. [British Machine Vision Conference (BMVC)](https://britishmachinevisionassociation.github.io/bmvc): Good for theoretical as well as application-based research in Computer Vision
-4. [Workshop on Applications of Computer Vision (WACV)](http://wacv2021.thecvf.com/home): More focused towards applications in Computer Vision
+4. [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)](http://wacv2021.thecvf.com/home): More focused towards applications in Computer Vision
 
 ### Journals
 1. [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
