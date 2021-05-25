@@ -10,7 +10,7 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 2. [Reinforcement Learning - Stanford CS234](http://web.stanford.edu/class/cs234/index.html)
 3. [Reinforcement Learning - IIT-M CS230](https://youtu.be/TIlDzLZPyhY)
 4. [Excursions in Reinforcement Learning - Mila](http://pierrelucbacon.com/teaching/)
-5. [Supplamentary Materials from Reinforcement Learning Book](https://rl-book.com/supplementary_materials/)
+5. [Supplementary Materials from Reinforcement Learning Book](https://rl-book.com/supplementary_materials/)
 
 ### Deep Reinforcement Learning
 
