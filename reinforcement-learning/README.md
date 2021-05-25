@@ -48,7 +48,7 @@ In these courses, you will learn the foundations of Reinforcement Learning.
 1. [RL— Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
 2. [Deep Reinforcement Series by Jonathan Hui](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
 3. [All the fantastic blogs by Lilian Weng](https://lilianweng.github.io/lil-log/)
-
+4. [Debugging RL, Without the Agonizing Pain by Andy Jones](https://andyljones.com/posts/rl-debugging.html)
 
 ## Research Papers
 
