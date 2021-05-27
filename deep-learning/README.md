@@ -78,4 +78,5 @@ The fifth course can be a bit heavy if done before implementing a project or two
 2. PyTorch
    - [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
    - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+   - [Deeplizard Pytorch Playlist](https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
    - [Sentdex PyTorch playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
