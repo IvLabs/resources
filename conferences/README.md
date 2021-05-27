@@ -30,13 +30,18 @@
 ### Journals
 1. [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org/): Top journal for Machine Learning research
 
+For more conferences on Computer Vision and Pattern recognition: Go to this [Google Scholar](https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence) page
+.
 ## Computer Vision
 ### Conferences
 1. [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](http://cvpr2020.thecvf.com/): Highest-rated conference among all engineering disciplines
 2. [European Conference on Computer Vision (ECCV) (even year)](https://eccv2020.eu/) / [IEEE/CVF International Conference on Computer Vision (ICCV) (odd year)](http://iccv2021.thecvf.com/home): Good for theoretical as well as application-based research in Computer Vision and Pattern Recognition
 3. [British Machine Vision Conference (BMVC)](https://britishmachinevisionassociation.github.io/bmvc): Good for theoretical as well as application-based research in Computer Vision
 4. [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)](http://wacv2021.thecvf.com/home): More focused towards applications in Computer Vision
+5. [IEEE International Conference on Image Processing (ICIP)](https://2021.ieeeicip.org/)
 
 ### Journals
 1. [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 2. [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+
+For more conferences on Computer Vision and Pattern recognition: Go to this [Google Scholar](https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition) page.
