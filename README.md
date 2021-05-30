@@ -7,16 +7,6 @@ Initiative by [IvLabs](http://www.ivlabs.in/) to share field-wise learning resou
 Here you will find all the courses and online materials which are being followed by IvLabs members. These resources have been carefully handpicked to provide the best knowledge. If you like the repo, please star. This motivates us to update the repo frequently.
 
 ---
-<details>
-<summary>Table of content</summary>
-
-- [Resources and Roadmaps for AI and Robotics](#resources-and-roadmaps-for-ai-and-robotics)
-  - [List of Various Fields](#list-of-various-fields)
-  - [Miscellaneous Topics](#miscellaneous-topics)
-  - [Guidelines for contributing](#guidelines-for-contributing)
-  - [Contributors](#contributors)
-
-</details>
 
 ## List of Various Fields
 Please click on following link to see the more info about the specific topic
