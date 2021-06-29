@@ -15,6 +15,7 @@ This course aims to teach you Natural Language Processing from the ground up, st
 ## More Courses
 1. [Natural Language Processing Specialization by Coursera](https://www.coursera.org/specializations/natural-language-processing?)
 3. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
+4. [Hugging Face Course](https://huggingface.co/course/chapter1)
 
 ## Tutorials/Implementations
 1. [IvLabs' Natural Language Processing Repository](https://github.com/IvLabs/Natural-Language-Processing)

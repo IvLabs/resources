@@ -2,6 +2,7 @@
 1. [CMU Robotics Institude Seminar Series: Great talk on robotics research every friday!](https://www.youtube.com/watch?v=9Urn2kygoiE&list=PLCFD85BC79FE703DF)
 2. [AI Podcast by Lex Fridman](https://www.youtube.com/watch?v=3t06ajvBtl0&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 3. [Robotics Today - A Series of Technical Talks](https://roboticstoday.github.io/)
+4. [Autonomous Driving CVPR 2021 Full Workshop](https://www.youtube.com/playlist?list=PLUgbVHjDharhCnUzWQryw2rZUe7K_qWdc)
 
 # Blogs/Reads
 1. [Why Can't I Reproduce Their Results? Or What I Wish I Knew as a Graduate Student.](http://theorangeduck.com/page/reproduce-their-results)
