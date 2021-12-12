@@ -24,6 +24,7 @@ Please click on following link to see the more info about the specific topic
 - [Reinforcement Learning](reinforcement-learning)
 - [State Estimation, Localization and SLAM](state-estimation-localization-slam)
 - [Robot Operating System](robot-operating-system)
+- [Graph Representation Learning](graph-representation-learning)
 
 ## Miscellaneous Topics
 To keep yourself updated with the field we highly recommend you listen to Podcasts, read subreddit (eg r/MachineLearning), follow Professors on Twitter, go through proceedings of top conferences. Alongside with doing courses you should also have a good grip with Linux OS and be proficient in programming. Click on following links to see the compilation done by IvLabs members.
