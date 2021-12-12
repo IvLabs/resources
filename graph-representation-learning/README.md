@@ -1,9 +1,6 @@
 # Graph Representation Learning
 
 ## Courses
-These courses will help you understand Graph Representation Learning along with enabling you to read and implement papers.
-
-CS224W: Machine Learning with Graphs
 
 1. [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 This course, starts with a basic overiview of graph thoery before diving deep into all the significant development in GraphML field.
@@ -28,5 +25,6 @@ A perfect guide to get started in this field.
 
 
 ## Research Papers
+These repositiories have collection of graph representation learning papers.
 1. [Awesome-Graph-Neural-Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks)
-This repositiory has collection of graph representation learning papers.
+2. [GNNPapers](https://github.com/thunlp/GNNPapers)
