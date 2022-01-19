@@ -43,3 +43,5 @@
 1. [Publications of Jean-Claude Latombe](http://ai.stanford.edu/~latombe/pub.htm)
 2. [Autonomous Driving in Traffic: Boss and the Urban Challenge](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2238)
 3. [A behavioral planning framework for autonomous driving](https://ieeexplore.ieee.org/abstract/document/6856582)
+4. [HKUST Aerial Robotics Group](https://uav.hkust.edu.hk/)
+5. [Search-Based Planning Lab](http://www.sbpl.net/)
