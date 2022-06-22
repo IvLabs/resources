@@ -47,6 +47,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Cont
 -->
 
 ## Maintainers
+- [Muhammed Abdullah Shaikh](https://github.com/ABD-01)
 - [Rohit Lal](http://take2rohit.github.io/) 
 - [Raj Ghugare](https://www.linkedin.com/in/raj-ghugare-917137169)
 - [Aditya Shirwatkar](https://in.linkedin.com/in/aditya-shirwatkar-40a956188)

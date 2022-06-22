@@ -9,7 +9,7 @@
   * [Notable Libraries](#notable-libraries)
   * [Inbuilt Libraries](#inbuilt-libraries)
   
- [C++](#c++)
+ [C++](#c)
   * [Tutorials](#tutorials-1)
   * [Books and Reference Material](#books-and-reference-material)
   * [Tools](#tools)
@@ -62,8 +62,8 @@ It is highly recommended to take the time and get familiar with the standard lib
 * [C++ Tutorials - Tutorialspoint ](https://www.tutorialspoint.com/cplusplus/index.htm)
   * **_Why this Tutorial?_** Live Online Coding !!!
   * **_What to keep in mind?_** This tutorial only helps you understand the syntax of C++. To effective, one must follow this tutorial up with sources. 
-* [Modern C++](https://youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
-  * **_Why this Tutorial?_** Excellent playlist for modern C++ (C++ 11 and afterwards) with a basic introduction to CMake build system. Provides lucid explanation of advanced topics like Smart/Shared pointers, Memory management.
+* [Modern C++](https://youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
+  * **_Why this Tutorial?_** Excellent playlist for modern C++ (C++ 17 and afterwards) with a basic introduction to CMake build system. Provides lucid explanation of advanced topics like Smart/Shared pointers, Memory management. Earlier version of this course can be found [here](https://youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C).
   
 
 ### Books and Reference Material
