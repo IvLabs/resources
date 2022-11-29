@@ -36,6 +36,8 @@ The [official website](https://www.python.org/) offers further resources, includ
 
 * [Corey Schafer Python Series](https://youtu.be/YYXdXT2l-Gg): One of the most elegant courses on python. Covers python from basic to intermediate.  Covers topics like generators, threading on top of all the basic concepts. It is highly recommended that you code along with the videos. 
 
+* [Learn Python Programming](https://www.scaler.com/topics/python/): This Python Tutorial will guide you to learn Python easily from beginner to advanced level.You can claim your course certificate upon course completion for free. You would be able to use this certificate on your resume, Linkedin profile or your website.
+
 ### IDEs
 
 * [JetBrains' PyCharm](https://www.jetbrains.com/pycharm/): Fully featured Python IDE, offering powerful autocomplete, virtual environment support, comprehensive debugging, and notebook support. Users of other JetBrains IDEs will feel right at home. A student email-id will give you free access to the Professional Version that includes a specific mode for data science.
