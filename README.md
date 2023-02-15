@@ -37,6 +37,16 @@ To keep yourself updated with the field we highly recommend you listen to Podcas
 
 NOTE: *Some of the topics are not yet completed. The repo will be updated soon.*
 
+## More lists like this
+The following are lists made by their respective creator
+
+| Repository | Creator | Description |
+| - | - | - |
+| [Robotics-Courses](https://github.com/ajaygunalan/Robotics-Courses) | [Ajay Gunalan](https://github.com/ajaygunalan) | A list of tutorials and learning resources for Robotics. Covers topis like Linear Algebra, Signals and System, Hybrid Courses (ML + Control), Motion Planning, SLAM. |
+| [engineering-video-courses](https://github.com/Developer-Y/engineering-video-courses) | [Developer-Y](https://github.com/Developer-Y) | A collection of links to video lectures related to engineering courses. Covers disciplines such as Aerospace Engineering, Electrical Engineering, Mechanical Engineering and Civil Engineering. |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | [Developer-Y](https://github.com/Developer-Y) | A list of video courses on Computer Science Topics such as Data Structures and ALgorithms, Software Engineering, Artificial Intelligence, and Web Programming. |
+| [math-science-videolectures](https://github.com/Developer-Y/math-science-video-lectures) | [Developer-Y](https://github.com/Developer-Y) | A collection of Video Courses on topics related to Maths, Physics, and Chemistry. |
+
 ## Guidelines for contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Contributions will not be accepted if they dont follow these guidelines
 
