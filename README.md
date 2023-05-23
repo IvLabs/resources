@@ -46,6 +46,7 @@ The following are lists made by their respective creator
 | [engineering-video-courses](https://github.com/Developer-Y/engineering-video-courses) | [Developer-Y](https://github.com/Developer-Y) | A collection of links to video lectures related to engineering courses. Covers disciplines such as Aerospace Engineering, Electrical Engineering, Mechanical Engineering and Civil Engineering. |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | [Developer-Y](https://github.com/Developer-Y) | A list of video courses on Computer Science Topics such as Data Structures and ALgorithms, Software Engineering, Artificial Intelligence, and Web Programming. |
 | [math-science-videolectures](https://github.com/Developer-Y/math-science-video-lectures) | [Developer-Y](https://github.com/Developer-Y) | A collection of Video Courses on topics related to Maths, Physics, and Chemistry. |
+| [courses](https://github.com/SkalskiP/courses) | [Piotr Skalski](https://github.com/SkalskiP) | Collection of AI courses along with their difiiculty ratings. Covers topics related to DL, NLP, RL and CV |
 
 ## Guidelines for contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Contributions will not be accepted if they dont follow these guidelines
