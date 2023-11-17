@@ -72,6 +72,7 @@ For beginners, It is recommended to first go through Brian Douglas (till video 2
 * [Modern Control Engineering](http://sharif.edu/~salarieh/Downloads/Modern%20Control%20Engineering%205th%20Edition.pdf) by Kastukio Ogota.
 * [Sliding Mode Control](https://books.google.co.in/books?hl=en&lr=&id=8U1ZDwAAQBAJ&oi=fnd&pg=PP1&dq=sarah+spurgeon+sliding+mode+control&ots=IwTbn51TCr&sig=1jw8ajRiCB2PQLp1iY7kHT6bAsk#v=onepage&q=sarah%20spurgeon%he20sliding%20mode%20control&f=false) by Christopher Edwards and Sarah Spurgeon.
 * [Non-Linear and adaptive control](https://books.google.co.in/books/about/Nonlinear_and_Adaptive_Control_Systems.html?id=fygdICP0g0kC&redir_esc=y) by Zhengato Din. (Good explanation of Backstepping).
+* [Robotics System](https://motion.cs.illinois.edu/RoboticSystems/) By Kris Hauser from University of Illinois
 
 
 ## Libraries, Tools and Frameworks
